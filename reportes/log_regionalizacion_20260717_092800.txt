@@ -1,0 +1,5 @@
+Log de regionalización — 2026-07-17 09:28:00
+======================================================================
+[OMITIDO    ] AccumulatedAnnualDemand (RESDHT_ZNI): No existe con ningún prefijo de región en el escenario regional
+[OMITIDO    ] AccumulatedAnnualDemand (RESELC_ZNI): No existe con ningún prefijo de región en el escenario regional
+[OK         ] AccumulatedAnnualDemand: 16 combinaciones regionalizadas (112 filas SAND), 2 omitidas

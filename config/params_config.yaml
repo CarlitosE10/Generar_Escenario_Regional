@@ -1,0 +1,60 @@
+# config/params_config.yaml
+# Clasificación de parámetros SAND para comparación y regionalización.
+#
+# Parámetros INTENSIVOS: cada región conserva exactamente el valor nacional
+# (ratios, factores, costos unitarios, vidas útiles, eficiencias, tasas).
+# Validación: valor_region == valor_nacional para cada región.
+#
+# Todo parámetro que NO esté en parametros_intensivos se trata como ADITIVO:
+# Nacional == suma de todas las regiones (excluyendo centinelas).
+#
+# Clasificación inferida de los notebooks existentes
+# (Validacion_General_Nacional_vs_Regional y regionalizacion_nacional_regional);
+# REVISAR: los marcados con (*) son propuesta nueva, no estaban en los notebooks.
+
+parametros_intensivos:
+  - InputActivityRatio
+  - OutputActivityRatio
+  - EmissionActivityRatio
+  - CapacityFactor
+  - AvailabilityFactor
+  - CapacityToActivityUnit
+  - CapitalCost
+  - FixedCost
+  - VariableCost
+  - OperationalLife
+  - DiscountRate            # (*) tasa global: igual en todas las regiones
+  - DiscountRateIdv         # (*) tasa por tecnología
+  - DepreciationMethod      # (*) método, no cantidad
+  - SpecifiedDemandProfile  # (*) perfil (fracciones que suman 1)
+  - YearSplit               # (*) fracciones de timeslice
+  - CapacityOfOneTechnologyUnit  # (*) tamaño unitario de planta
+
+# Valor centinela "sin límite": no se suma entre regiones (se excluye de la
+# validación aditiva y se copia tal cual al regionalizar).
+valor_centinela: 99999.0
+# Los SAND existentes mezclan 9999, 99999, 999999...: tratar cualquier entero
+# "solo 9s" también como centinela.
+centinela_patron_9s: true
+
+# Nombre de región (como aparece en el archivo de participaciones) -> prefijo.
+# Prefijos verificados contra CSV_Regional/FUEL.csv. Ojo: "Este" -> SE.
+prefijo_region:
+  Antioquia: AN
+  Caribe: CA
+  Este: SE
+  Insular: IN
+  Nordeste: NE
+  Oriente: OR
+  Suroccidente: SO
+
+# Código del set REGION de OSeMOSYS (la regionalización va como prefijo en
+# TECHNOLOGY/FUEL, no en el índice REGION).
+region_osemosys: RE1
+
+# Parámetros numéricos del flujo
+anio_maximo_comparacion: 2054   # 2055 se excluye de la comparación
+tolerancia_comparacion: 1.0e-4  # |diferencia| para marcar discrepancia
+tolerancia_participacion: 1.0e-3  # warning si suma de participaciones difiere de 1
+umbral_alerta_pct: 0.01         # resaltar en rojo si |Diferencia %| > 1%
+top_n_grafica: 20               # Top-N de la gráfica de diferencias

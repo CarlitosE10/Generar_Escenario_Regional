@@ -1,0 +1,3 @@
+Log de regionalización — 2026-07-17 09:00:21
+======================================================================
+[OK         ] AccumulatedAnnualDemand: 6 combinaciones regionalizadas (42 filas SAND), 0 omitidas
