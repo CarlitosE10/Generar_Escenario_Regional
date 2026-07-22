@@ -35,7 +35,8 @@ import numpy as np
 import pandas as pd
 
 from sand_io import columnas_anio, escribir_sand
-from utils import REGIONES, TIME_INDEP_COL, es_centinela, normalize_text, safe_float
+from utils import (REGIONES, TIME_INDEP_COL, es_centinela, is_trade_technology,
+                   normalize_text, safe_float)
 
 logger = logging.getLogger(__name__)
 
@@ -432,3 +433,528 @@ def escribir_sands(
     for ruta in rutas:
         logger.info("SAND escrito: %s", ruta)
     return rutas
+
+
+# ---------------------------------------------------------------------------
+# Flujo con archivos de mapeo (Insumos/Mapeo/)
+#
+# Añade sobre `regionalizar`: (1) las regiones esperadas por código salen de
+# mapeo_tech_fuel.xlsx en vez de asumirse las 7; (2) los renombramientos
+# nacional -> regional (FUEL_REGIONAL, p. ej. ELC -> ELC003) se aplican al
+# construir el código prefijado; (3) los códigos sin correspondencia o sin
+# participación no abortan: se detectan antes (`detectar_omisiones`), el usuario
+# decide qué hacer (`resolver_omisiones`) y `regionalizar_con_mapeo` aplica esa
+# decisión. `regionalizar` se mantiene intacta para el flujo anterior.
+# ---------------------------------------------------------------------------
+
+# Si la fila nacional es toda ceros / solo-9s se copia (intensivo); si trae
+# valores reales se reparte (aditivo) y exige participación.
+PARAMS_CONDICIONALES = frozenset({
+    "TotalAnnualMaxCapacityInvestment",
+    "TotalTechnologyAnnualActivityUpperLimit",
+    "TotalTechnologyModelPeriodActivityUpperLimit",
+})
+
+MOTIVO_SIN_CORRESPONDENCIA = "SIN_CORRESPONDENCIA_REGIONAL"
+MOTIVO_SIN_PARTICIPACION = "SIN_PARTICIPACION"
+MOTIVO_REGIONES_INCOMPLETAS = "REGIONES_INCOMPLETAS"
+MOTIVO_EXCLUIDO_POR_MAPEO = "EXCLUIDO_POR_MAPEO"
+
+DECISION_OMITIR = "omitir"
+DECISION_CREAR_TODAS = "crear_todas"
+DECISION_CREAR_REGIONES = "crear_regiones:"   # + "AN,CA,..."
+DECISION_EXCLUIDO = "excluido_por_mapeo"
+
+
+def cargar_mapeo_regional(carpeta: str | Path) -> dict:
+    """Lee Insumos/Mapeo/ y arma los diccionarios de consulta del flujo.
+
+    Devuelve, para TECHNOLOGY y FUEL por separado:
+      - `regiones_*`: {código nacional: [prefijos donde debe existir]} según las
+        columnas 0/1 de mapeo_tech_fuel.xlsx.
+      - `rename_*`: {código nacional: código base regional} (TECHNOLOGY_REGIONAL /
+        FUEL_REGIONAL); p. ej. ELC -> ELC003, y se escribirá `AN_ELC003`.
+      - `obs_*`: texto de diccionario_tech/fuel.xlsx para mostrar al decidir.
+    `disponible` es False si no hay mapeo_tech_fuel.xlsx (todo degrada a las 7
+    regiones, igual que el flujo anterior).
+    """
+    from comparador import cargar_mapeos
+
+    mapeos = cargar_mapeos(carpeta)
+    mapa = mapeos.get("mapeo")
+    salida = {
+        "regiones_tech": {}, "regiones_fuel": {},
+        "rename_tech": {}, "rename_fuel": {},
+        "obs_tech": {}, "obs_fuel": {},
+        "disponible": mapa is not None,
+    }
+
+    if mapa is not None:
+        cols_reg = [c for c in REGIONES if c in mapa.columns]
+        for _, fila in mapa.iterrows():
+            regiones = [c for c in cols_reg if safe_float(fila.get(c)) == 1.0]
+            tech = normalize_text(fila.get("TECHNOLOGY"))
+            fuel = normalize_text(fila.get("FUEL"))
+            if tech is not None:
+                salida["regiones_tech"][tech] = regiones
+                if normalize_text(fila.get("TECHNOLOGY_REGIONAL")) is not None:
+                    salida["rename_tech"][tech] = normalize_text(fila["TECHNOLOGY_REGIONAL"])
+            if fuel is not None:
+                salida["regiones_fuel"][fuel] = regiones
+                if normalize_text(fila.get("FUEL_REGIONAL")) is not None:
+                    salida["rename_fuel"][fuel] = normalize_text(fila["FUEL_REGIONAL"])
+        logger.info("Mapeo regional: %s tecnologías, %s fuels, %s renombramientos",
+                    len(salida["regiones_tech"]), len(salida["regiones_fuel"]),
+                    len(salida["rename_tech"]) + len(salida["rename_fuel"]))
+    else:
+        logger.warning("Sin mapeo_tech_fuel.xlsx: se asumen las 7 regiones para todo código")
+
+    # Observaciones de los diccionarios (solo informativas, para MODO_INTERACTIVO)
+    for clave, col_nac, destino in (("diccionario_tech", "TECHNOLOGY_NACIONAL", "obs_tech"),
+                                    ("diccionario_fuel", "FUEL_NACIONAL", "obs_fuel")):
+        dicc = mapeos.get(clave)
+        if dicc is None or col_nac not in dicc.columns:
+            continue
+        cols_txt = [c for c in ("EQUIVALENCIA", "OBSERVACION") if c in dicc.columns]
+        for _, fila in dicc.iterrows():
+            cod = normalize_text(fila.get(col_nac))
+            if cod is None or cod in salida[destino]:
+                continue
+            texto = " | ".join(str(fila[c]) for c in cols_txt
+                               if normalize_text(fila.get(c)) is not None)
+            if texto:
+                salida[destino][cod] = texto
+    return salida
+
+
+def _regiones_pct(df_pct: pd.DataFrame, cfg: dict) -> pd.DataFrame:
+    """Normaliza la columna Region del archivo de participaciones a prefijos."""
+    mapa = dict(cfg["prefijo_region"])
+    mapa.update({v: v for v in cfg["prefijo_region"].values()})
+    df = df_pct.copy()
+    sin_mapa = ~df["Region"].isin(mapa)
+    if sin_mapa.any():
+        raise ValueError("Regiones del archivo de participaciones sin prefijo definido: "
+                         f"{sorted(df.loc[sin_mapa, 'Region'].unique())}")
+    df["Region"] = df["Region"].map(mapa)
+    return df
+
+
+def _buscar_participacion(df_pct, parametro, tech, fuel, anios):
+    """`_participacion_combo` sin excepción: None si el combo no está definido."""
+    try:
+        return _participacion_combo(df_pct, parametro, tech, fuel, anios)
+    except ValueError:
+        return None
+
+
+def detectar_omisiones(
+    df_nacional: pd.DataFrame,
+    df_regional: pd.DataFrame,
+    df_pct: pd.DataFrame,
+    parametros: list[str],
+    params_otoole: dict[str, dict],
+    cfg: dict,
+    mapeo: dict,
+    sectores_a_excluir: list[str] | None = None,
+) -> pd.DataFrame:
+    """Casos problemáticos antes de regionalizar, uno por (Parámetro, código).
+
+    Motivos: SIN_CORRESPONDENCIA_REGIONAL (el código nacional no aparece en el
+    regional con ningún prefijo), SIN_PARTICIPACION (existe pero no hay % para
+    repartirlo), REGIONES_INCOMPLETAS (existe solo en algunas de las regiones
+    que el mapeo espera) y EXCLUIDO_POR_MAPEO (el mapeo dice que no debe existir
+    en ninguna región — esperado, no se pregunta). Las tecnologías TRN* se
+    saltan en silencio: son nuevas por diseño del modelo regional.
+
+    `Decision` sale con el valor por defecto ('omitir', o 'excluido_por_mapeo');
+    `resolver_omisiones` la sobreescribe.
+    """
+    sectores_a_excluir = sectores_a_excluir or []
+    df_pct = _regiones_pct(df_pct, cfg)
+    prefijos = list(cfg["prefijo_region"].values())
+    cod_reg_tech = set(df_regional["TECHNOLOGY"].dropna().astype(str).str.strip())
+    cod_reg_fuel = set(df_regional["FUEL"].dropna().astype(str).str.strip())
+    cols_anio_str = columnas_anio(df_nacional)
+    anios_sand = [int(c) for c in cols_anio_str]
+
+    filas: list[dict] = []
+    for parametro in parametros:
+        spec = params_otoole.get(parametro)
+        if spec is None:
+            continue
+        indices = spec["indices"]
+        usa_tech, usa_fuel = "TECHNOLOGY" in indices, "FUEL" in indices
+        anios = anios_sand if "YEAR" in indices else [ANIO_CONSTANTE]
+        cols_valor = cols_anio_str if "YEAR" in indices else [TIME_INDEP_COL]
+        es_intensivo = parametro in cfg["parametros_intensivos"]
+        es_condicional = parametro in PARAMS_CONDICIONALES
+
+        nac_p = df_nacional[df_nacional["Parameter"] == parametro]
+        vistos: set[tuple] = set()
+        for _, row in nac_p.iterrows():
+            tech = normalize_text(row["TECHNOLOGY"]) if usa_tech else None
+            fuel = normalize_text(row["FUEL"]) if usa_fuel else None
+            if (tech, fuel) in vistos:
+                continue
+            vistos.add((tech, fuel))
+
+            codigo = tech if usa_tech else fuel
+            if codigo is None:
+                continue
+            if is_trade_technology(codigo):      # TRN*: nuevas por diseño
+                continue
+            if any(s in codigo for s in sectores_a_excluir):
+                continue
+
+            universo = cod_reg_tech if usa_tech else cod_reg_fuel
+            renames = mapeo["rename_tech"] if usa_tech else mapeo["rename_fuel"]
+            regs_map = mapeo["regiones_tech"] if usa_tech else mapeo["regiones_fuel"]
+            base_regional = renames.get(codigo, codigo)
+
+            existentes = [p for p in prefijos if f"{p}_{base_regional}" in universo]
+            if mapeo["disponible"]:
+                esperadas = regs_map.get(codigo, [])
+            else:
+                esperadas = prefijos
+            faltantes = sorted(set(esperadas) - set(existentes))
+
+            # Un condicional (upper/max) cuya fila nacional es toda 0/centinela
+            # NO requiere participación: se copia (0 se reparte como 0). Solo
+            # exige % si tiene límites reales que haya que repartir.
+            solo_ceros = es_condicional and _es_fila_condicional_intensiva(row, cols_valor, cfg)
+            tiene_pct = (es_intensivo or solo_ceros
+                         or _buscar_participacion(df_pct, parametro, tech, fuel, anios) is not None)
+
+            if not esperadas and not existentes:
+                motivo, decision = MOTIVO_EXCLUIDO_POR_MAPEO, DECISION_EXCLUIDO
+            elif not existentes:
+                motivo, decision = MOTIVO_SIN_CORRESPONDENCIA, DECISION_OMITIR
+            elif not tiene_pct:
+                motivo, decision = MOTIVO_SIN_PARTICIPACION, DECISION_OMITIR
+            elif faltantes:
+                motivo, decision = MOTIVO_REGIONES_INCOMPLETAS, DECISION_OMITIR
+            else:
+                continue   # sin problema: no entra al reporte de omisiones
+
+            obs = (mapeo["obs_tech"] if usa_tech else mapeo["obs_fuel"]).get(codigo, "")
+            filas.append({
+                "Parametro": parametro, "TECHNOLOGY": tech, "FUEL": fuel,
+                "Motivo": motivo,
+                "Regiones_Existentes": ",".join(existentes),
+                "Regiones_Faltantes": ",".join(faltantes),
+                "Nombre_Regional": base_regional if base_regional != codigo else "",
+                "Observacion": obs,
+                "Decision": decision,
+            })
+
+    cols = ["Parametro", "TECHNOLOGY", "FUEL", "Motivo", "Regiones_Existentes",
+            "Regiones_Faltantes", "Nombre_Regional", "Observacion", "Decision"]
+    om = pd.DataFrame(filas, columns=cols)
+    if not om.empty:
+        logger.info("Omisiones potenciales: %s (%s)", len(om),
+                    om["Motivo"].value_counts().to_dict())
+    return om
+
+
+def resolver_omisiones(omisiones: pd.DataFrame, interactivo: bool = False,
+                       entrada=input, salida=print) -> pd.DataFrame:
+    """Fija la columna `Decision` de cada omisión.
+
+    Con `interactivo=False` deja los valores por defecto (todo 'omitir', salvo
+    los EXCLUIDO_POR_MAPEO). Con `interactivo=True` pregunta caso por caso —
+    los EXCLUIDO_POR_MAPEO nunca se preguntan, son esperados:
+      [1] crear en todas las regiones faltantes (participación uniforme 1/N)
+      [2] crear solo en las regiones que se indiquen (ej. `AN,CA`)
+      [3] omitir
+      [4] omitir todos los casos restantes de este mismo Motivo
+    """
+    om = omisiones.copy()
+    if om.empty or not interactivo:
+        return om
+
+    saltar_motivos: set[str] = set()
+    pendientes = list(om.index[om["Motivo"] != MOTIVO_EXCLUIDO_POR_MAPEO])
+    for pos, idx in enumerate(pendientes, start=1):
+        fila = om.loc[idx]
+        if fila["Motivo"] in saltar_motivos:
+            om.at[idx, "Decision"] = DECISION_OMITIR
+            continue
+        salida(f"\n[{pos}/{len(pendientes)}] {fila['Motivo']} — {fila['Parametro']}")
+        salida(f"  TECHNOLOGY={fila['TECHNOLOGY']}  FUEL={fila['FUEL']}")
+        salida(f"  Existe en : {fila['Regiones_Existentes'] or '(ninguna)'}")
+        salida(f"  Falta en  : {fila['Regiones_Faltantes'] or '(ninguna)'}")
+        if fila["Nombre_Regional"]:
+            salida(f"  Nombre regional: {fila['Nombre_Regional']}")
+        if fila["Observacion"]:
+            salida(f"  Diccionario: {fila['Observacion']}")
+        salida("  [1] crear en todas las faltantes (1/N)  [2] crear en regiones...  "
+               "[3] omitir  [4] omitir todos los de este motivo")
+        try:
+            resp = str(entrada("  Opción [3]: ")).strip()
+        except (EOFError, KeyboardInterrupt):
+            salida("\n  Entrada no disponible; se omiten los casos restantes.")
+            break
+        if resp == "1":
+            om.at[idx, "Decision"] = DECISION_CREAR_TODAS
+        elif resp == "2":
+            crudo = str(entrada("  Regiones (ej. AN,CA): ")).strip().upper()
+            regs = ",".join(r.strip() for r in crudo.split(",") if r.strip() in REGIONES)
+            om.at[idx, "Decision"] = (DECISION_CREAR_REGIONES + regs) if regs else DECISION_OMITIR
+        elif resp == "4":
+            saltar_motivos.add(fila["Motivo"])
+            om.at[idx, "Decision"] = DECISION_OMITIR
+        else:
+            om.at[idx, "Decision"] = DECISION_OMITIR
+    return om
+
+
+def _decisiones_dict(omisiones: pd.DataFrame) -> dict:
+    if omisiones is None or omisiones.empty:
+        return {}
+    return {(f["Parametro"], f["TECHNOLOGY"], f["FUEL"]): f["Decision"]
+            for _, f in omisiones.iterrows()}
+
+
+def _regiones_de_decision(decision, faltantes: list[str], existentes: list[str]) -> list[str]:
+    """Regiones a crear según la decisión tomada en la pre-validación."""
+    if decision == DECISION_CREAR_TODAS:
+        return faltantes or existentes
+    if isinstance(decision, str) and decision.startswith(DECISION_CREAR_REGIONES):
+        pedidas = [r.strip() for r in decision[len(DECISION_CREAR_REGIONES):].split(",") if r.strip()]
+        return [r for r in pedidas if r in REGIONES]
+    return []
+
+
+def _es_fila_condicional_intensiva(row, cols_valor, cfg) -> bool:
+    """Fila condicional que se copia en vez de repartirse: todo ceros o solo-9s."""
+    valores = [safe_float(row[c]) for c in cols_valor]
+    valores = [v for v in valores if v is not None]
+    if not valores:
+        return True
+    return all(v == 0 or es_centinela(v, cfg["valor_centinela"], cfg["centinela_patron_9s"])
+               for v in valores)
+
+
+def regionalizar_con_mapeo(
+    df_nacional: pd.DataFrame,
+    df_regional: pd.DataFrame,
+    df_pct: pd.DataFrame,
+    parametros: list[str],
+    params_otoole: dict[str, dict],
+    cfg: dict,
+    mapeo: dict,
+    omisiones: pd.DataFrame | None = None,
+    years_filtro: list[int] | None = None,
+    sectores_a_excluir: list[str] | None = None,
+) -> dict:
+    """Regionaliza usando los archivos de mapeo y las decisiones de omisión.
+
+    Clasificación por parámetro: intensivo (copia el valor nacional a cada
+    región donde el código exista según el mapeo), aditivo (nacional ×
+    participación) y condicional / upper-max (híbrido **por año**): los años en
+    0 o centinela se copian tal cual a las regiones existentes —un límite de 0
+    significa "0 en todas las regiones" y no requiere participación— y solo los
+    años con valor real se reparten. Por eso un condicional NUNCA se omite por
+    falta de participación mientras existan regiones equivalentes: sus años en 0
+    quedan fijados y los años reales sin participación se dejan vacíos (con
+    ADVERTENCIA en el log).
+
+    Los códigos con problema consultan su `Decision` en `omisiones`: 'omitir'
+    los deja fuera (queda en el log), 'crear_todas' / 'crear_regiones:AN,CA' los
+    genera con participación uniforme 1/N sobre esas regiones. Los
+    renombramientos del mapeo (ELC -> ELC003) se aplican al prefijar.
+
+    Returns dict: sands, log, resumen (por parámetro) y participaciones_invalidas.
+    """
+    sectores_a_excluir = sectores_a_excluir or []
+    df_pct = _regiones_pct(df_pct, cfg)
+    prefijos = list(cfg["prefijo_region"].values())
+    decisiones = _decisiones_dict(omisiones)
+
+    log: list[dict] = []
+    participaciones_invalidas = validar_participaciones(
+        df_pct, cfg.get("tolerancia_participacion", 1e-3))
+    for _, fila in participaciones_invalidas.iterrows():
+        log.append(_log_entry("ADVERTENCIA", str(fila["Parametro"]), fila["TECHNOLOGY"],
+                              fila["FUEL"],
+                              f"Suma de participaciones = {fila['Suma_Participacion']:.6f} "
+                              f"(distinta de 1.0) en Año={fila['Año']}"))
+
+    anios_sand = columnas_anio(df_nacional)
+    columnas_ref = df_nacional.columns.tolist()
+    cod_reg_tech = set(df_regional["TECHNOLOGY"].dropna().astype(str).str.strip())
+    cod_reg_fuel = set(df_regional["FUEL"].dropna().astype(str).str.strip())
+
+    desconocidos = [p for p in parametros if p not in params_otoole]
+    if desconocidos:
+        raise ValueError(f"Parámetros no definidos en config_depurado.yaml: {desconocidos}")
+
+    sands: dict[str, pd.DataFrame] = {}
+    resumen: list[dict] = []
+    for parametro in parametros:
+        spec = params_otoole[parametro]
+        indices = spec["indices"]
+        tiene_year = "YEAR" in indices
+        usa_tech, usa_fuel = "TECHNOLOGY" in indices, "FUEL" in indices
+        es_intensivo = parametro in cfg["parametros_intensivos"]
+        es_condicional = parametro in PARAMS_CONDICIONALES
+
+        nac_p = df_nacional[df_nacional["Parameter"] == parametro].copy()
+        if nac_p.empty:
+            log.append(_log_entry("ADVERTENCIA", parametro, None, None,
+                                  "Sin filas en el SAND nacional"))
+            resumen.append({"Parametro": parametro, "Filas_SAND": 0, "Combos_OK": 0,
+                            "Combos_Omitidos": 0, "Combos_Creados": 0})
+            continue
+
+        if tiene_year:
+            anios_out = [c for c in anios_sand if years_filtro is None or int(c) in years_filtro]
+            anios_int = [int(c) for c in anios_out]
+        else:
+            anios_out, anios_int = [TIME_INDEP_COL], [ANIO_CONSTANTE]
+        if not anios_out:
+            log.append(_log_entry("ADVERTENCIA", parametro, None, None,
+                                  "Ningún año pasa YEARS_FILTRO"))
+            resumen.append({"Parametro": parametro, "Filas_SAND": 0, "Combos_OK": 0,
+                            "Combos_Omitidos": 0, "Combos_Creados": 0})
+            continue
+
+        filas_out: list[dict] = []
+        n_ok = n_omitidos = n_creados = 0
+        for _, row in nac_p.iterrows():
+            tech = normalize_text(row["TECHNOLOGY"]) if usa_tech else None
+            fuel = normalize_text(row["FUEL"]) if usa_fuel else None
+            codigo = tech if usa_tech else fuel
+            if codigo is None:
+                continue
+            if is_trade_technology(codigo):
+                continue          # TRN*: nuevas por diseño, no son omisiones
+            if any(s in codigo for s in sectores_a_excluir):
+                continue
+
+            universo = cod_reg_tech if usa_tech else cod_reg_fuel
+            renames = mapeo["rename_tech"] if usa_tech else mapeo["rename_fuel"]
+            regs_map = mapeo["regiones_tech"] if usa_tech else mapeo["regiones_fuel"]
+            base_regional = renames.get(codigo, codigo)
+
+            existentes = [p for p in prefijos if f"{p}_{base_regional}" in universo]
+            esperadas = regs_map.get(codigo, []) if mapeo["disponible"] else prefijos
+            faltantes = sorted(set(esperadas) - set(existentes))
+
+            decision = decisiones.get((parametro, tech, fuel))
+            if decision == DECISION_EXCLUIDO:
+                continue          # el mapeo dice que no debe existir: esperado
+            creadas = _regiones_de_decision(decision, faltantes, existentes) if decision else []
+            # Los condicionales (upper/max) no se omiten aunque falte la
+            # participación: sus años en 0/centinela deben quedar fijados en las
+            # regiones existentes (0 no requiere reparto). El resto sí se omite.
+            if decision == DECISION_OMITIR and not creadas and not es_condicional:
+                log.append(_log_entry("OMITIDO", parametro, tech, fuel,
+                                      "Decisión de la pre-validación: omitir"))
+                n_omitidos += 1
+                continue
+
+            # Clasificar la fila:
+            # - Intensivo: copia el valor nacional a cada región existente.
+            # - Condicional: híbrido por año — los años en 0/centinela se copian
+            #   tal cual a las regiones existentes (un límite de 0 significa "0
+            #   en todas las regiones", sin participación); solo los años con
+            #   valor real se reparten con participación (si la hay).
+            # - Aditivo: nacional × participación (se omite si falta).
+            copia_valor = es_intensivo
+            if es_intensivo:
+                pct_combo = None
+                regiones_emitir = sorted(set(existentes) | set(creadas))
+            elif es_condicional:
+                pct = _buscar_participacion(df_pct, parametro, tech, fuel, anios_int)
+                if pct is None and creadas:
+                    n = len(creadas)   # crear sin % en el archivo: uniforme 1/N
+                    pct = pd.DataFrame([{"Region": r, "Año": a, "Participacion": 1.0 / n}
+                                        for r in creadas for a in anios_int])
+                    log.append(_log_entry("CREADO", parametro, tech, fuel,
+                                          f"Participación uniforme 1/{n} en {','.join(creadas)}"))
+                elif pct is None and not _es_fila_condicional_intensiva(row, anios_out, cfg):
+                    log.append(_log_entry("ADVERTENCIA", parametro, tech, fuel,
+                                          "Condicional con límites reales sin participación: se "
+                                          "fijan solo los años en 0/centinela en las regiones existentes"))
+                pct_combo = (pct.set_index(["Region", "Año"])["Participacion"]
+                             if pct is not None else None)
+                regiones_emitir = sorted(set(existentes) | set(creadas))
+            else:
+                pct = _buscar_participacion(df_pct, parametro, tech, fuel, anios_int)
+                if pct is None and not creadas:
+                    log.append(_log_entry("OMITIDO", parametro, tech, fuel,
+                                          "Sin participación definida y sin decisión de creación"))
+                    n_omitidos += 1
+                    continue
+                if pct is None:
+                    # Decisión de crear sin % en el archivo: uniforme 1/N
+                    n = len(creadas)
+                    pct = pd.DataFrame([{"Region": r, "Año": a, "Participacion": 1.0 / n}
+                                        for r in creadas for a in anios_int])
+                    log.append(_log_entry("CREADO", parametro, tech, fuel,
+                                          f"Participación uniforme 1/{n} en {','.join(creadas)}"))
+                pct_combo = pct.set_index(["Region", "Año"])["Participacion"]
+                regiones_emitir = sorted(set(pct_combo.index.get_level_values("Region")))
+
+            if not regiones_emitir:
+                log.append(_log_entry("OMITIDO", parametro, tech, fuel,
+                                      "Sin regiones destino (no existe y no se decidió crearlo)"))
+                n_omitidos += 1
+                continue
+            if creadas:
+                n_creados += 1
+
+            for prefijo in regiones_emitir:
+                fila = {c: pd.NA for c in columnas_ref}
+                fila["Parameter"] = parametro
+                fila["REGION"] = cfg["region_osemosys"]
+                for col in ("EMISSION", "MODE_OF_OPERATION", "TIMESLICE", "STORAGE", "REGION2"):
+                    if col in indices or normalize_text(row.get(col)) is not None:
+                        fila[col] = row.get(col)
+                if usa_tech:
+                    fila["TECHNOLOGY"] = f"{prefijo}_{mapeo['rename_tech'].get(tech, tech)}"
+                if usa_fuel:
+                    fila["FUEL"] = f"{prefijo}_{mapeo['rename_fuel'].get(fuel, fuel)}"
+
+                for col, anio in zip(anios_out, anios_int):
+                    val = safe_float(row[col])
+                    if val is None:
+                        continue
+                    if (copia_valor
+                            or es_centinela(val, cfg["valor_centinela"], cfg["centinela_patron_9s"])
+                            or (es_condicional and val == 0)):
+                        fila[col] = val   # intensivo, "sin límite", o límite 0: mismo valor
+                    else:
+                        if pct_combo is None:
+                            continue      # condicional con valor real sin participación
+                        p = pct_combo.get((prefijo, anio))
+                        if p is None or pd.isna(p):
+                            continue      # región sin participación ese año
+                        fila[col] = val * float(p)
+                filas_out.append(fila)
+            n_ok += 1
+
+        if filas_out:
+            df_sand = pd.DataFrame(filas_out, columns=columnas_ref)
+            for col in columnas_ref:   # recalcular la indicadora del SAND base
+                if str(col).startswith("Tiene datos"):
+                    vals = df_sand[anios_sand].apply(pd.to_numeric, errors="coerce")
+                    df_sand[col] = (vals.notna() & (vals != 0)).any(axis=1).astype(int)
+            sands[parametro] = df_sand
+        else:
+            log.append(_log_entry("ADVERTENCIA", parametro, None, None,
+                                  "Regionalizado sin filas: todos los combos omitidos"))
+
+        log.append(_log_entry("OK", parametro, None, None,
+                              f"{n_ok} combos regionalizados ({len(filas_out)} filas SAND), "
+                              f"{n_omitidos} omitidos, {n_creados} creados por decisión"))
+        resumen.append({"Parametro": parametro, "Filas_SAND": len(filas_out), "Combos_OK": n_ok,
+                        "Combos_Omitidos": n_omitidos, "Combos_Creados": n_creados})
+        logger.info("%s: %s combos, %s filas, %s omitidos, %s creados",
+                    parametro, n_ok, len(filas_out), n_omitidos, n_creados)
+
+    return {"sands": sands, "log": pd.DataFrame(log),
+            "resumen": pd.DataFrame(resumen),
+            "participaciones_invalidas": participaciones_invalidas}

@@ -4,10 +4,10 @@
 
 escenario_nacional:
   sand: SAND_Nacional_base/01-04-2026 SAND BASE v10.xlsx
-  config_yaml: config_depurado.yaml
+  config_yaml: template_config.yaml
 
 escenario_regional:
-  sand: SAND_Regional/SAND_Regional_17_07.xlsx
+  sand: SAND_Regional/SAND_Regional_17_07_Short.xlsx
 
 participaciones:
   archivo: Insumos/Participacion_Fuel_RES.xlsx

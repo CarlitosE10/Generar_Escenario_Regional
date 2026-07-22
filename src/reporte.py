@@ -11,7 +11,9 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import pandas as pd
+from openpyxl.formatting.rule import FormulaRule
 from openpyxl.styles import Font, PatternFill
+from openpyxl.utils import get_column_letter
 
 logger = logging.getLogger(__name__)
 
@@ -59,14 +61,20 @@ def exportar_reporte_comparacion(
     anomalias: pd.DataFrame,
     resumen: pd.DataFrame,
     umbral_alerta_pct: float = 0.01,
-    max_filas: int = 200_000,
+    max_filas: int = 50_000,
+    hojas_extra: dict[str, pd.DataFrame] | None = None,
 ) -> Path:
     """Reporte de comparación con hojas Comparacion / Anomalias / Resumen.
 
     En la hoja Comparacion, las filas con |Diferencia %| > umbral_alerta_pct
-    se resaltan en rojo (relleno + fuente). Si la comparación supera max_filas
-    se exportan solo las primeras (ya vienen ordenadas por |Diferencia| desc.,
-    así que se conservan las más relevantes).
+    se resaltan en rojo mediante UNA regla de formato condicional (no estilos
+    por celda: con cientos de miles de filas resaltadas eso tardaba horas).
+    Si la comparación supera max_filas se exportan solo las primeras (ya vienen
+    ordenadas por |Diferencia| desc., así que se conservan las más relevantes).
+
+    hojas_extra: {nombre_hoja: DataFrame} adicionales (p. ej. Inventario_Tech_Fuel,
+    Por_Sector, Sector_Detalle, Anomalias_Contextualizadas); las vacías o None
+    se omiten con warning.
     """
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -80,14 +88,24 @@ def exportar_reporte_comparacion(
             .rename(columns=NOMBRES_REPORTE).to_excel(writer, sheet_name="Anomalias", index=False)
         resumen.rename(columns=NOMBRES_REPORTE).to_excel(writer, sheet_name="Resumen", index=False)
 
-        # Resaltado en rojo: |Diferencia %| > umbral (la fila 1 es el encabezado)
+        for nombre, df in (hojas_extra or {}).items():
+            if df is None or df.empty:
+                logger.warning("Hoja extra '%s' sin datos: se omite del reporte", nombre)
+                continue
+            df.rename(columns=NOMBRES_REPORTE).to_excel(writer, sheet_name=nombre[:31], index=False)
+
+        # Resaltado en rojo: |Diferencia %| > umbral, como formato condicional
+        # sobre todo el rango (la fila 1 es el encabezado). Excel evalúa la
+        # regla al abrir el archivo; el resultado visual es el mismo que el
+        # antiguo estilo por celda pero la escritura es O(1).
         if not comparacion.empty and "Diferencia_Pct" in comparacion.columns:
             ws = writer.book["Comparacion"]
-            pct = pd.to_numeric(comparacion["Diferencia_Pct"], errors="coerce")
-            for idx in comparacion.index[pct.abs() > umbral_alerta_pct]:
-                for celda in ws[int(idx) + 2]:
-                    celda.fill = _ROJO
-                    celda.font = _FUENTE_ROJA
+            col_pct = get_column_letter(comparacion.columns.get_loc("Diferencia_Pct") + 1)
+            rango = f"A2:{get_column_letter(len(comparacion.columns))}{len(comparacion) + 1}"
+            ws.conditional_formatting.add(rango, FormulaRule(
+                formula=[f"AND(ISNUMBER(${col_pct}2),ABS(${col_pct}2)>{umbral_alerta_pct})"],
+                fill=_ROJO, font=_FUENTE_ROJA,
+            ))
     logger.info("Reporte de comparación exportado: %s", path)
     return path
 
@@ -222,3 +240,81 @@ def escribir_log_regionalizacion(log: pd.DataFrame, carpeta: str | Path,
     ruta_txt.write_text("\n".join(lineas), encoding="utf-8")
     logger.info("Log de regionalización: %s / %s", ruta_xlsx.name, ruta_txt.name)
     return ruta_xlsx, ruta_txt
+
+
+def grafica_control_regionalizacion(
+    df_sand: pd.DataFrame,
+    parametro: str,
+    indices: list[str],
+    anios: list[str] | None = None,
+    top_n: int = 10,
+    max_paneles: int = 20,
+):
+    """Gráfica de control de un parámetro regionalizado: un panel por código base,
+    barras apiladas por región a lo largo de los años.
+
+    La dimensión de corte sale de los índices del parámetro (config_depurado.yaml):
+    FUEL si el parámetro se indexa por FUEL (también cuando usa ambos, según la
+    convención del proyecto), TECHNOLOGY en caso contrario. Si hay más de
+    `max_paneles` códigos se muestran los `top_n` por valor total y el resto se
+    agrega en un panel "Otros".
+
+    Devuelve la figura, o None si no hay nada que graficar (el llamador avisa).
+    """
+    col = "FUEL" if "FUEL" in indices else "TECHNOLOGY"
+    if df_sand is None or df_sand.empty or col not in df_sand.columns:
+        return None
+
+    cols_anio = [c for c in (anios or df_sand.columns) if str(c).isdigit() and c in df_sand.columns]
+    if not cols_anio:
+        return None
+
+    df = df_sand[[col] + cols_anio].copy()
+    partes = df[col].astype(str).str.split("_", n=1, expand=True)
+    if partes.shape[1] < 2:
+        return None
+    df["Region"], df["Base"] = partes[0], partes[1]
+    for c in cols_anio:
+        df[c] = pd.to_numeric(df[c], errors="coerce")
+    if not df[cols_anio].notna().any().any():
+        return None
+
+    totales = df.groupby("Base")[cols_anio].sum().sum(axis=1).sort_values(ascending=False)
+    if len(totales) > max_paneles:
+        principales = list(totales.head(top_n).index)
+        df["Base"] = df["Base"].where(df["Base"].isin(principales), "Otros")
+        bases = principales + ["Otros"]
+    else:
+        bases = list(totales.index)
+
+    n = len(bases)
+    ncols = min(3, n)
+    nfilas = (n + ncols - 1) // ncols
+    fig, axes = plt.subplots(nfilas, ncols, figsize=(5.5 * ncols, 3.2 * nfilas),
+                             squeeze=False, sharex=True)
+    regiones = sorted(df["Region"].unique())
+    colores = plt.cm.tab10.colors
+
+    for pos, base in enumerate(bases):
+        ax = axes[pos // ncols][pos % ncols]
+        sub = df[df["Base"] == base]
+        pivote = sub.groupby("Region")[cols_anio].sum().reindex(regiones).fillna(0)
+        acumulado = None
+        for i, region in enumerate(regiones):
+            valores = pivote.loc[region].to_numpy(dtype=float)
+            ax.bar(cols_anio, valores, bottom=acumulado, label=region,
+                   color=colores[i % len(colores)], width=0.85)
+            acumulado = valores if acumulado is None else acumulado + valores
+        ax.set_title(base, fontsize=9)
+        ax.tick_params(axis="x", labelrotation=90, labelsize=6)
+        ax.tick_params(axis="y", labelsize=7)
+
+    for pos in range(n, nfilas * ncols):      # apagar los ejes sobrantes
+        axes[pos // ncols][pos % ncols].axis("off")
+
+    manejadores, etiquetas = axes[0][0].get_legend_handles_labels()
+    fig.legend(manejadores, etiquetas, loc="upper right", ncol=len(regiones), fontsize=8)
+    fig.suptitle(f"{parametro} — regionalizado por {col} ({cols_anio[0]}–{cols_anio[-1]})",
+                 fontsize=11, y=1.0)
+    fig.tight_layout(rect=(0, 0, 1, 0.95))
+    return fig
