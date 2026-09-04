@@ -19,9 +19,11 @@ parámetros ausentes o vacíos, cobertura regional incompleta...).
 """
 from __future__ import annotations
 
+import difflib
 import logging
 import re
 from collections import defaultdict
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
@@ -33,6 +35,7 @@ from utils import (
     is_trade_technology,
     norm_indice,
     normalize_text,
+    safe_float,
     split_regional_name,
 )
 
@@ -455,3 +458,574 @@ def comparar_dimension(
         for base, regs in sorted(presencia.items())
     ])
     return detalle, cobertura
+
+
+# --- Inventario enriquecido, análisis por sector y contextualización ----------
+# Sectores del modelo detectados por contains() sobre TECHNOLOGY y FUEL
+SECTORES = ["TRA", "IND", "RES", "TER", "AGF", "PWR"]
+
+# Parámetros clave que se validan por sector (los vacíos en el SAND se saltan)
+PARAMS_CLAVE_SECTOR = [
+    "AccumulatedAnnualDemand",
+    "TotalAnnualMaxCapacity",
+    "TotalAnnualMinCapacity",
+    "TotalTechnologyAnnualActivityUpperLimit",
+    "TotalTechnologyAnnualActivityLowerLimit",
+    "TotalTechnologyModelPeriodActivityUpperLimit",
+    "TotalTechnologyModelPeriodActivityLowerLimit",
+    "TotalAnnualMaxCapacityInvestment",
+]
+
+# Modos de transporte (códigos del notebook validacion_nacional_vs_regional)
+MODOS_TRA = {
+    "TRAAVI": "Aviación", "TRABUS": "Buses", "TRAFWD": "4x4/FWD",
+    "TRALDV": "Veh. livianos", "TRAMIC": "Motocicletas", "TRAMRT": "Metro/MRT",
+    "TRAMTC": "MTC", "TRAMET": "Metro eléctrico", "TRARVT": "Tren ligero",
+    "TRASTT": "Barcos/STT", "TRATAX": "Taxis", "TRATCK": "Camiones",
+    "TRAMAS": "MAS", "TRARES": "Resto", "TRAMAR": "Marítimo",
+}
+
+PARAM_DESCRIPCIONES = {
+    "AccumulatedAnnualDemand": "Demanda acumulada anual por combustible",
+    "AnnualEmissionLimit": "Límite anual de emisiones",
+    "AnnualExogenousEmission": "Emisiones exógenas anuales",
+    "AvailabilityFactor": "Factor de disponibilidad de tecnología",
+    "CapacityFactor": "Factor de capacidad por timeslice",
+    "CapacityOfOneTechnologyUnit": "Capacidad de una unidad tecnológica",
+    "CapacityToActivityUnit": "Factor de conversión capacidad-actividad",
+    "CapitalCost": "Costo de capital ($/kW)",
+    "DepreciationMethod": "Método de depreciación",
+    "DiscountRate": "Tasa de descuento global",
+    "DiscountRateIdv": "Tasa de descuento por tecnología",
+    "EmissionActivityRatio": "Ratio de emisión por actividad",
+    "EmissionsPenalty": "Penalización por emisiones",
+    "FixedCost": "Costo fijo anual",
+    "InputActivityRatio": "Ratio de entrada (combustible -> tecnología)",
+    "ModelPeriodEmissionLimit": "Límite de emisión del periodo del modelo",
+    "ModelPeriodExogenousEmission": "Emisión exógena del periodo del modelo",
+    "OperationalLife": "Vida operativa de la tecnología (años)",
+    "OutputActivityRatio": "Ratio de salida (tecnología -> producto)",
+    "REMinProductionTarget": "Meta mínima de producción renovable",
+    "RETagFuel": "Etiqueta de combustible renovable",
+    "RETagTechnology": "Etiqueta de tecnología renovable",
+    "ReserveMargin": "Margen de reserva del sistema",
+    "ReserveMarginTagFuel": "Etiqueta de combustible para margen de reserva",
+    "ReserveMarginTagTechnology": "Etiqueta de tecnología para margen de reserva",
+    "ResidualCapacity": "Capacidad residual instalada (MW)",
+    "SpecifiedAnnualDemand": "Demanda anual especificada",
+    "SpecifiedDemandProfile": "Perfil de demanda especificada",
+    "TotalAnnualMaxCapacity": "Capacidad máxima anual total",
+    "TotalAnnualMaxCapacityInvestment": "Límite máximo de inversión anual",
+    "TotalAnnualMinCapacity": "Capacidad mínima anual total",
+    "TotalAnnualMinCapacityInvestment": "Límite mínimo de inversión anual",
+    "TotalTechnologyAnnualActivityLowerLimit": "Límite inferior de actividad anual",
+    "TotalTechnologyAnnualActivityUpperLimit": "Límite superior de actividad anual",
+    "TotalTechnologyModelPeriodActivityLowerLimit": "Límite inferior de actividad del periodo",
+    "TotalTechnologyModelPeriodActivityUpperLimit": "Límite superior de actividad del periodo",
+    "TradeRoute": "Ruta de comercio entre regiones",
+    "VariableCost": "Costo variable ($/GWh)",
+    "YearSplit": "Distribución temporal del año (timeslices)",
+}
+
+# Anomalías que se pueden explicar con Insumos/Mapeo/mapeo_tech_fuel.xlsx
+TIPOS_ANOMALIA_CONTEXTUALIZABLES = [
+    "SIN_CORRESPONDENCIA", "TECHNOLOGY_NO_EN_REGIONAL", "FUEL_NO_EN_REGIONAL",
+]
+
+_ARCHIVOS_MAPEO = {
+    "mapeo": "mapeo_tech_fuel.xlsx",
+    "diccionario_tech": "diccionario_tech.xlsx",
+    "diccionario_fuel": "diccionario_fuel.xlsx",
+}
+
+
+def cargar_mapeos(carpeta: str | Path) -> dict[str, pd.DataFrame | None]:
+    """Carga los archivos de Insumos/Mapeo/ que existan; los ausentes quedan en None.
+
+    Claves: 'mapeo' (mapeo_tech_fuel.xlsx: regiones esperadas 0/1 por código
+    nacional), 'diccionario_tech' y 'diccionario_fuel' (equivalencias y
+    renombramientos Nacional <-> Regional).
+    """
+    carpeta = Path(carpeta)
+    mapeos: dict[str, pd.DataFrame | None] = {}
+    for clave, nombre in _ARCHIVOS_MAPEO.items():
+        ruta = carpeta / nombre
+        if ruta.exists():
+            mapeos[clave] = pd.read_excel(ruta)
+            logger.info("Mapeo cargado: %s (%s filas)", nombre, len(mapeos[clave]))
+        else:
+            mapeos[clave] = None
+            logger.warning("Mapeo no encontrado (el análisis degrada sin él): %s", ruta)
+    return mapeos
+
+
+def renombramientos_fuel(diccionario_fuel: pd.DataFrame | None,
+                         regiones: list[str] | None = None) -> pd.DataFrame:
+    """Pares de renombramiento FUEL nacional -> base regional (ELC -> ELC001...).
+
+    Sale de diccionario_fuel.xlsx: filas donde la base regional (sin prefijo)
+    difiere del FUEL_NACIONAL declarado.
+    """
+    columnas = ["Fuel_Nacional", "Fuel_Regional", "Fuente"]
+    if diccionario_fuel is None or diccionario_fuel.empty:
+        return pd.DataFrame(columns=columnas)
+    base = diccionario_fuel["FUEL_REGIONAL"].apply(lambda v: split_regional_name(v, regiones)[1])
+    nacional = diccionario_fuel["FUEL_NACIONAL"].apply(normalize_text)
+    pares = pd.DataFrame({"Fuel_Nacional": nacional, "Fuel_Regional": base})
+    pares = pares.dropna()
+    pares = pares[pares["Fuel_Nacional"] != pares["Fuel_Regional"]].drop_duplicates()
+    pares["Fuente"] = "diccionario_fuel"
+    return pares.reset_index(drop=True)
+
+
+def renombramientos_fuzzy(solo_nacional: list[str], solo_regional: list[str],
+                          umbral: float = 0.8) -> pd.DataFrame:
+    """Renombramientos probables por similitud de nombre (difflib), sin diccionario.
+
+    Para cada código solo-nacional busca el solo-regional más parecido con
+    ratio >= umbral. Es una heurística: revisar antes de dar por buena la pareja.
+    """
+    filas = []
+    for nac in solo_nacional:
+        mejor, mejor_ratio = None, umbral
+        for reg in solo_regional:
+            ratio = difflib.SequenceMatcher(None, nac, reg).ratio()
+            if ratio >= mejor_ratio:
+                mejor, mejor_ratio = reg, ratio
+        if mejor is not None:
+            filas.append({"Fuel_Nacional": nac, "Fuel_Regional": mejor,
+                          "Similitud": round(mejor_ratio, 3), "Fuente": "fuzzy"})
+    return pd.DataFrame(filas, columns=["Fuel_Nacional", "Fuel_Regional", "Similitud", "Fuente"])
+
+
+def _enriquecer_tech_con_diccionario(detalle: pd.DataFrame,
+                                     diccionario_tech: pd.DataFrame | None) -> pd.DataFrame:
+    """Añade Estado_Mapeo / Nombre_Equivalente al detalle TECHNOLOGY.
+
+    - Solo Nacional  -> SIN_CORRESPONDENCIA (ausencia real declarada en el
+      diccionario), RENOMBRADO (existe con TECHNOLOGY_REGIONAL distinto) o SIN_INFO.
+    - Solo Regional  -> RENOMBRADO_DE si el diccionario le asigna un nacional.
+    """
+    detalle = detalle.copy()
+    detalle["Estado_Mapeo"] = pd.NA
+    detalle["Nombre_Equivalente"] = pd.NA
+    if diccionario_tech is None or diccionario_tech.empty or detalle.empty:
+        return detalle
+
+    por_nacional: dict[str, tuple] = {}
+    por_regional: dict[str, str] = {}
+    for _, fila in diccionario_tech.iterrows():
+        nac = normalize_text(fila.get("TECHNOLOGY_NACIONAL"))
+        reg = normalize_text(fila.get("TECHNOLOGY_REGIONAL"))
+        if nac is not None:
+            por_nacional[nac] = (fila.get("EQUIVALENCIA"), reg)
+        if reg is not None and nac is not None and reg != nac:
+            por_regional[reg] = nac
+
+    for idx, fila in detalle.iterrows():
+        var = fila["Variable"]
+        if fila["Categoria"] == "Solo Nacional":
+            equiv, reg = por_nacional.get(var, (None, None))
+            if reg is not None and reg != var:
+                detalle.at[idx, "Estado_Mapeo"] = "RENOMBRADO"
+                detalle.at[idx, "Nombre_Equivalente"] = reg
+            elif isinstance(equiv, str) and equiv == "SIN_CORRESPONDENCIA":
+                detalle.at[idx, "Estado_Mapeo"] = "SIN_CORRESPONDENCIA"
+            else:
+                detalle.at[idx, "Estado_Mapeo"] = "SIN_INFO"
+        elif str(fila["Categoria"]).startswith("Solo Regional") and var in por_regional:
+            detalle.at[idx, "Estado_Mapeo"] = "RENOMBRADO_DE"
+            detalle.at[idx, "Nombre_Equivalente"] = por_regional[var]
+    return detalle
+
+
+def _marcar_renombramientos_fuel(detalle: pd.DataFrame, pares: pd.DataFrame) -> pd.DataFrame:
+    """Añade Estado_Mapeo / Nombre_Equivalente al detalle FUEL usando los pares
+    de renombramiento (diccionario o fuzzy)."""
+    detalle = detalle.copy()
+    detalle["Estado_Mapeo"] = pd.NA
+    detalle["Nombre_Equivalente"] = pd.NA
+    if detalle.empty:
+        return detalle
+    nac_a_reg = pares.groupby("Fuel_Nacional")["Fuel_Regional"].agg(lambda s: ", ".join(sorted(set(s)))) \
+        if not pares.empty else pd.Series(dtype=object)
+    reg_a_nac = pares.groupby("Fuel_Regional")["Fuel_Nacional"].agg(lambda s: ", ".join(sorted(set(s)))) \
+        if not pares.empty else pd.Series(dtype=object)
+    for idx, fila in detalle.iterrows():
+        var = fila["Variable"]
+        if fila["Categoria"] == "Solo Nacional":
+            if var in nac_a_reg.index:
+                detalle.at[idx, "Estado_Mapeo"] = "RENOMBRADO"
+                detalle.at[idx, "Nombre_Equivalente"] = nac_a_reg[var]
+            else:
+                detalle.at[idx, "Estado_Mapeo"] = "SIN_INFO"
+        elif str(fila["Categoria"]).startswith("Solo Regional") and var in reg_a_nac.index:
+            detalle.at[idx, "Estado_Mapeo"] = "RENOMBRADO_DE"
+            detalle.at[idx, "Nombre_Equivalente"] = reg_a_nac[var]
+    return detalle
+
+
+def _grupo_tematico(variable: str) -> str:
+    """Prefijo temático de un código (para agrupar las variables solo-regionales)."""
+    var = str(variable)
+    for prefijo in ("BACKSTOP", "TRN", "ELCEV"):
+        if var.startswith(prefijo):
+            return prefijo
+    for sector in SECTORES:
+        if sector in var:
+            return sector
+    letras = re.match(r"^[A-Z]+", var)
+    return letras.group(0)[:3] if letras else var[:3]
+
+
+def inventario_tech_fuel(
+    df_nacional: pd.DataFrame,
+    df_regional: pd.DataFrame,
+    regiones: list[str],
+    diccionario_tech: pd.DataFrame | None = None,
+    diccionario_fuel: pd.DataFrame | None = None,
+    umbral_fuzzy: float = 0.8,
+) -> dict:
+    """Inventario estructural completo: parámetros, TECHNOLOGY y FUEL.
+
+    Enriquece los detalles de comparar_dimension con los diccionarios de mapeo
+    (renombramientos y ausencias declaradas); sin diccionario de FUEL cae a
+    detección fuzzy (difflib, ratio >= umbral_fuzzy).
+
+    Returns dict: parametros, tech, fuel, cobertura_tech, cobertura_fuel,
+    renombramientos_fuel, resumen (conteos por dimensión y categoría).
+    """
+    parametros = comparar_parametros(df_nacional, df_regional)
+    parametros["Descripcion"] = parametros["Parameter"].map(PARAM_DESCRIPCIONES).fillna("")
+    parametros["En_Nacional"] = parametros["Filas_Nacional"] > 0
+    parametros["En_Regional"] = parametros["Filas_Regional"] > 0
+
+    tech_det, tech_cob = comparar_dimension(df_nacional, df_regional, "TECHNOLOGY", regiones)
+    fuel_det, fuel_cob = comparar_dimension(df_nacional, df_regional, "FUEL", regiones)
+
+    tech_det = _enriquecer_tech_con_diccionario(tech_det, diccionario_tech)
+    pares_fuel = renombramientos_fuel(diccionario_fuel, regiones)
+    if pares_fuel.empty and not fuel_det.empty:
+        pares_fuel = renombramientos_fuzzy(
+            fuel_det.loc[fuel_det["Categoria"] == "Solo Nacional", "Variable"].tolist(),
+            fuel_det.loc[fuel_det["Categoria"].str.startswith("Solo Regional"), "Variable"].tolist(),
+            umbral_fuzzy,
+        )
+    fuel_det = _marcar_renombramientos_fuel(fuel_det, pares_fuel)
+
+    for det in (tech_det, fuel_det):
+        if not det.empty:
+            det["Grupo"] = det["Variable"].apply(_grupo_tematico)
+
+    resumen = (
+        pd.concat([tech_det, fuel_det], ignore_index=True)
+        .groupby(["Dimension", "Categoria"], as_index=False).size()
+        .rename(columns={"size": "Cantidad"})
+        if not (tech_det.empty and fuel_det.empty) else pd.DataFrame()
+    )
+    return {"parametros": parametros, "tech": tech_det, "fuel": fuel_det,
+            "cobertura_tech": tech_cob, "cobertura_fuel": fuel_cob,
+            "renombramientos_fuel": pares_fuel, "resumen": resumen}
+
+
+def _mascara_sector(df: pd.DataFrame, sector: str) -> pd.Series:
+    """True donde TECHNOLOGY o FUEL contienen el código del sector."""
+    mascara = pd.Series(False, index=df.index)
+    for col in INDICES_PREFIJADOS:
+        if col in df.columns:
+            mascara |= df[col].astype(str).str.contains(sector, na=False)
+    return mascara
+
+
+def detectar_sectores(df: pd.DataFrame, sectores: list[str] | None = None) -> list[str]:
+    """Sectores presentes en el DataFrame (contains sobre TECHNOLOGY/FUEL)."""
+    return [s for s in (sectores or SECTORES) if _mascara_sector(df, s).any()]
+
+
+def _desglose_modos_tra(nac_s: pd.DataFrame, reg_s: pd.DataFrame,
+                        regiones: list[str]) -> pd.DataFrame:
+    """Desglose del sector transporte por modo (MODOS_TRA): presencia en
+    Nacional/Regional y cobertura de regiones."""
+    presencia: dict[str, set] = defaultdict(set)
+    bases_reg: dict[str, set] = defaultdict(set)
+    for col in INDICES_PREFIJADOS:
+        for valor in reg_s[col].dropna().unique():
+            region, base = split_regional_name(valor, regiones)
+            if base is None:
+                continue
+            for modo in MODOS_TRA:
+                if modo in base:
+                    bases_reg[modo].add(base)
+                    if region:
+                        presencia[modo].add(region)
+
+    filas = []
+    for modo, descripcion in MODOS_TRA.items():
+        codigos_nac = {
+            normalize_text(v)
+            for col in INDICES_PREFIJADOS for v in nac_s[col].dropna().unique()
+            if modo in str(v)
+        }
+        if not codigos_nac and not bases_reg[modo]:
+            continue
+        regs = sorted(presencia[modo])
+        filas.append({
+            "Modo": modo, "Descripcion": descripcion,
+            "Codigos_Nacional": len(codigos_nac),
+            "Codigos_Regional_Base": len(bases_reg[modo]),
+            "Regiones": ", ".join(regs), "Num_Regiones": len(regs),
+            "Cubre_Todas": len(set(regs) & set(regiones)) == len(regiones),
+        })
+    return pd.DataFrame(filas)
+
+
+def _desglose_fuel_region(
+    df_nacional: pd.DataFrame,
+    df_reg_prep: pd.DataFrame,
+    nombre: str,
+    spec: dict,
+    sector: str,
+    regiones: list[str],
+    hasta_anio: int | None,
+    anio: int | str | None,
+    pares_fuel: pd.DataFrame,
+) -> tuple[pd.DataFrame, str | None]:
+    """Pivot variable base × región para un parámetro y sector, con columnas
+    Nacional / Suma_Regional / Diferencia_Pct y advertencia de renombramiento."""
+    indices = spec["indices"]
+    dim = "FUEL" if ("FUEL" in indices and "TECHNOLOGY" not in indices) else "TECHNOLOGY"
+    tiene_year = "YEAR" in indices
+
+    nac_p = aplicar_filtro(df_nacional[df_nacional["Parameter"] == nombre], dim, [sector], "contiene")
+    reg_p = aplicar_filtro(
+        df_reg_prep[(df_reg_prep["Parameter"] == nombre) & ~df_reg_prep["IS_TRN"]],
+        dim, [sector], "contiene",
+    )
+    if nac_p.empty and reg_p.empty:
+        return pd.DataFrame(), None
+
+    if tiene_year:
+        anios = columnas_anio(nac_p if not nac_p.empty else reg_p, hasta_anio)
+        col_valor = str(anio) if anio is not None and str(anio) in anios else anios[0]
+    else:
+        col_valor = TIME_INDEP_COL
+
+    reg_v = reg_p.copy()
+    reg_v["_valor"] = pd.to_numeric(reg_v[col_valor], errors="coerce")
+    pivote = reg_v.pivot_table(index=dim, columns="REGION_PREFIJO", values="_valor", aggfunc="sum")
+    pivote = pivote.reindex(columns=[r for r in regiones if r in pivote.columns])
+    pivote["Suma_Regional"] = pivote.sum(axis=1)
+
+    nacional = pd.to_numeric(nac_p[col_valor], errors="coerce").groupby(nac_p[dim]).sum()
+    pivote = pivote.join(nacional.rename("Nacional"), how="outer")
+    pivote["Diferencia_Pct"] = np.where(
+        pivote["Nacional"].fillna(0) != 0,
+        (pivote["Nacional"] - pivote["Suma_Regional"]) / pivote["Nacional"].abs(),
+        np.nan,
+    )
+
+    pivote = pivote.reset_index().rename(columns={dim: "Variable"})
+    orden = ["Variable", "Nacional"] + [r for r in regiones if r in pivote.columns] + \
+            ["Suma_Regional", "Diferencia_Pct"]
+    pivote = pivote[orden]
+
+    if dim == "FUEL" and not pares_fuel.empty:
+        nac_a_reg = pares_fuel.groupby("Fuel_Nacional")["Fuel_Regional"].agg(
+            lambda s: ", ".join(sorted(set(s))))
+        reg_a_nac = pares_fuel.groupby("Fuel_Regional")["Fuel_Nacional"].agg(
+            lambda s: ", ".join(sorted(set(s))))
+
+        def advertencia(var):
+            if var in nac_a_reg.index:
+                return f"renombrado en regional a: {nac_a_reg[var]}"
+            if var in reg_a_nac.index:
+                return f"renombramiento del nacional: {reg_a_nac[var]}"
+            return ""
+
+        pivote["Advertencia_Renombramiento"] = pivote["Variable"].apply(advertencia)
+    return pivote, col_valor
+
+
+def analisis_por_sector(
+    df_nacional: pd.DataFrame,
+    df_regional: pd.DataFrame,
+    sector: str,
+    otoole_params: dict[str, dict],
+    params_cfg: dict,
+    diccionario_tech: pd.DataFrame | None = None,
+    diccionario_fuel: pd.DataFrame | None = None,
+    parametros: list[str] | None = None,
+    df_reg_prep: pd.DataFrame | None = None,
+    anio_desglose: int | str | None = None,
+) -> dict:
+    """Análisis profundo de un sector (TRA, IND, RES, TER, AGF, PWR).
+
+    Combina el inventario estructural del sector (comparar_dimension filtrado),
+    la validación de PARAMS_CLAVE_SECTOR vía comparar_parametro (misma ruta
+    aditiva/intensiva del flujo general, filtro contains=sector) y el desglose
+    variable × región del parámetro con más datos.
+
+    parametros: si se pasa (modo 'parametro'/'lista_parametros'), solo se validan
+    los parámetros clave incluidos en esa lista.
+    df_reg_prep: regional ya preparado (preparar_regional) para reutilizar entre
+    sectores; si es None se calcula aquí.
+
+    Returns dict: sector, filas_nacional, filas_regional, inventario_tech,
+    inventario_fuel, cobertura_tech, cobertura_fuel, modos_tra (solo TRA),
+    validacion (detalle con columna Coincide), resumen_validacion,
+    parametro_desglose, anio_desglose, desglose, anomalias.
+    """
+    regiones = list(params_cfg["prefijo_region"].values())
+    tolerancia = params_cfg["tolerancia_comparacion"]
+    hasta_anio = params_cfg.get("anio_maximo_comparacion")
+
+    nac_s = df_nacional[_mascara_sector(df_nacional, sector)]
+    reg_s = df_regional[_mascara_sector(df_regional, sector)]
+    if df_reg_prep is None:
+        df_reg_prep = preparar_regional(df_regional, regiones)
+
+    # 1) Inventario del sector (misma lógica que el inventario global, filtrado)
+    inv_tech, cob_tech = comparar_dimension(nac_s, reg_s, "TECHNOLOGY", regiones)
+    inv_fuel, cob_fuel = comparar_dimension(nac_s, reg_s, "FUEL", regiones)
+    inv_tech = _enriquecer_tech_con_diccionario(inv_tech, diccionario_tech)
+    pares_fuel = renombramientos_fuel(diccionario_fuel, regiones)
+    if pares_fuel.empty and not inv_fuel.empty:
+        pares_fuel = renombramientos_fuzzy(
+            inv_fuel.loc[inv_fuel["Categoria"] == "Solo Nacional", "Variable"].tolist(),
+            inv_fuel.loc[inv_fuel["Categoria"].str.startswith("Solo Regional"), "Variable"].tolist(),
+        )
+    inv_fuel = _marcar_renombramientos_fuel(inv_fuel, pares_fuel)
+    modos_tra = _desglose_modos_tra(nac_s, reg_s, regiones) if sector == "TRA" else None
+
+    # 2) Validación de los parámetros clave con datos (ruta aditiva/intensiva)
+    nombres = [
+        p for p in PARAMS_CLAVE_SECTOR
+        if (parametros is None or p in parametros)
+        and p in otoole_params
+        and (df_nacional["Parameter"] == p).any()
+    ]
+    bloques, filas_resumen, anomalias = [], [], []
+    for nombre in nombres:
+        comp, anom = comparar_parametro(
+            nombre, otoole_params[nombre], df_nacional, df_reg_prep, params_cfg,
+            tecnologias=[sector], fuels=[sector], modo_filtro="contiene",
+        )
+        anomalias.extend(anom)
+        if comp.empty:
+            continue
+        comp = comp.copy()
+        comp["Coincide"] = comp["Diferencia"].abs() <= tolerancia
+        n_disc = int((~comp["Coincide"]).sum())
+        filas_resumen.append({
+            "Sector": sector, "Parametro": nombre,
+            "Tipo": "intensivo" if nombre in params_cfg["parametros_intensivos"] else "aditivo",
+            "Filas": len(comp), "Filas_OK": len(comp) - n_disc,
+            "Filas_Discrepancia": n_disc,
+            "Pct_Discrepancia": round(100 * n_disc / len(comp), 1),
+            "Max_Diferencia_Abs": float(comp["Diferencia"].abs().max()),
+        })
+        bloques.append(comp)
+
+    validacion = pd.concat(bloques, ignore_index=True) if bloques else pd.DataFrame()
+    resumen_validacion = pd.DataFrame(filas_resumen)
+
+    # 3) Desglose variable × región del parámetro con más datos. Si el candidato
+    # no tiene valores regionales en el año de referencia se prueba el siguiente.
+    parametro_desglose, desglose, anio_usado = None, pd.DataFrame(), None
+    for fila in sorted(filas_resumen, key=lambda f: f["Filas"], reverse=True):
+        candidato = fila["Parametro"]
+        desg, anio = _desglose_fuel_region(
+            df_nacional, df_reg_prep, candidato, otoole_params[candidato],
+            sector, regiones, hasta_anio, anio_desglose, pares_fuel,
+        )
+        if not desg.empty and desg["Suma_Regional"].notna().any():
+            parametro_desglose, desglose, anio_usado = candidato, desg, anio
+            break
+
+    logger.info("Sector %s: %s filas nac / %s filas reg, %s parámetros clave validados",
+                sector, len(nac_s), len(reg_s), len(filas_resumen))
+    return {
+        "sector": sector, "filas_nacional": len(nac_s), "filas_regional": len(reg_s),
+        "inventario_tech": inv_tech, "inventario_fuel": inv_fuel,
+        "cobertura_tech": cob_tech, "cobertura_fuel": cob_fuel,
+        "modos_tra": modos_tra,
+        "validacion": validacion, "resumen_validacion": resumen_validacion,
+        "parametro_desglose": parametro_desglose, "anio_desglose": anio_usado,
+        "desglose": desglose,
+        "anomalias": pd.DataFrame(anomalias, columns=["Parametro", "Tecnologia_Fuel",
+                                                      "Tipo_Anomalia", "Detalle"]),
+    }
+
+
+def tabla_por_sector(analisis_sectores: dict[str, dict]) -> pd.DataFrame:
+    """Pivot sector × parámetro con el % de filas con discrepancia (hoja Por_Sector)."""
+    frames = [a["resumen_validacion"] for a in analisis_sectores.values()
+              if not a["resumen_validacion"].empty]
+    if not frames:
+        return pd.DataFrame()
+    todo = pd.concat(frames, ignore_index=True)
+    pivote = todo.pivot_table(index="Sector", columns="Parametro", values="Pct_Discrepancia")
+    return pivote.reset_index().rename_axis(None, axis=1)
+
+
+def contextualizar_anomalias(anomalias: pd.DataFrame, mapeo: pd.DataFrame,
+                             regiones: list[str] | None = None) -> pd.DataFrame:
+    """Explica las anomalías estructurales con mapeo_tech_fuel.xlsx.
+
+    Para SIN_CORRESPONDENCIA / TECHNOLOGY_NO_EN_REGIONAL / FUEL_NO_EN_REGIONAL
+    agrega TIENE_MAPEO, REGIONES_ESPERADAS (columnas 0/1 del mapeo),
+    NOMBRE_REGIONAL (TECHNOLOGY_REGIONAL/FUEL_REGIONAL si está definido) y
+    ACCION_SUGERIDA: cambio_de_nombre | no_existe_en_region |
+    verificar_creacion | sin_info.
+    """
+    from utils import REGIONES as _REGIONES_DEFAULT
+    regiones = regiones or _REGIONES_DEFAULT
+    cols_region = [c for c in regiones if c in mapeo.columns]
+
+    indice_tech: dict[str, pd.Series] = {}
+    indice_fuel: dict[str, pd.Series] = {}
+    for _, fila in mapeo.iterrows():
+        tech = normalize_text(fila.get("TECHNOLOGY"))
+        fuel = normalize_text(fila.get("FUEL"))
+        if tech is not None:
+            indice_tech[tech] = fila
+        if fuel is not None:
+            indice_fuel[fuel] = fila
+
+    out = anomalias[anomalias["Tipo_Anomalia"].isin(TIPOS_ANOMALIA_CONTEXTUALIZABLES)].copy()
+    contexto = []
+    for _, an in out.iterrows():
+        # Tecnologia_Fuel puede traer varios índices ("TECH | FUEL | modo")
+        partes = [p.strip() for p in str(an["Tecnologia_Fuel"]).split("|")]
+        es_fuel = an["Tipo_Anomalia"] == "FUEL_NO_EN_REGIONAL"
+        orden_busqueda = (indice_fuel, indice_tech) if es_fuel else (indice_tech, indice_fuel)
+        fila_mapeo = None
+        for indice in orden_busqueda:
+            for parte in partes:
+                if parte in indice:
+                    fila_mapeo = indice[parte]
+                    break
+            if fila_mapeo is not None:
+                break
+
+        if fila_mapeo is None:
+            contexto.append({"TIENE_MAPEO": False, "REGIONES_ESPERADAS": "",
+                             "NOMBRE_REGIONAL": "", "ACCION_SUGERIDA": "sin_info"})
+            continue
+        regiones_esperadas = [c for c in cols_region if safe_float(fila_mapeo.get(c)) == 1]
+        nombre_regional = (normalize_text(fila_mapeo.get("TECHNOLOGY_REGIONAL"))
+                           or normalize_text(fila_mapeo.get("FUEL_REGIONAL")) or "")
+        if nombre_regional:
+            accion = "cambio_de_nombre"
+        elif not regiones_esperadas:
+            accion = "no_existe_en_region"
+        else:
+            accion = "verificar_creacion"
+        contexto.append({"TIENE_MAPEO": True,
+                         "REGIONES_ESPERADAS": ", ".join(regiones_esperadas),
+                         "NOMBRE_REGIONAL": nombre_regional,
+                         "ACCION_SUGERIDA": accion})
+
+    for columna in ["TIENE_MAPEO", "REGIONES_ESPERADAS", "NOMBRE_REGIONAL", "ACCION_SUGERIDA"]:
+        out[columna] = [c[columna] for c in contexto] if contexto else pd.Series(dtype=object)
+    return out.reset_index(drop=True)

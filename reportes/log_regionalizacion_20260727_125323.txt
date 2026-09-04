@@ -1,0 +1,301 @@
+Log de regionalización — 2026-07-27 12:53:23
+======================================================================
+[ADVERTENCIA] CapitalCost (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERBGSCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERBGSCKN_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERBGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCACL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCAIR_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCAIR_SPL_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCDATA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCFAN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCILU_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCILU_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCMPW_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCOTH_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCOTH_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCREF_AUC_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERELCREF_CEN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERLPGCKN_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTERNGSCKN_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[CREADO     ] ResidualCapacity (DEMTERBGSCKN_HIG): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERBGSCKN_LOW): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERBGSCKN_MID): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERELCACL_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTERELCACL_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTERELCACL_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTERELCAIR_CEN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERELCAIR_SPL_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERELCCKN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERELCDATA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERELCFAN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTERELCILU_CIA): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTERELCILU_HAL): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTERELCILU_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTERELCILU_LFC): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTERELCILU_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTERELCILU_MID): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTERELCILU_VAP): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTERELCMPW_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTERELCMPW_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTERELCMPW_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTERELCOTH_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERELCOTH_MID): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERELCREF_AUC_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERELCREF_CEN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTERLPGCKN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTERNGSCKN_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTERNGSCKN_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] ResidualCapacity: 43 combos regionalizados (266 filas SAND), 0 omitidos, 17 creados por decisión
+[CREADO     ] AccumulatedAnnualDemand (TERDATA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] AccumulatedAnnualDemand (TERIHT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] AccumulatedAnnualDemand (TERILU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] AccumulatedAnnualDemand (TERMPW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] AccumulatedAnnualDemand: 11 combos regionalizados (69 filas SAND), 0 omitidos, 1 creados por decisión
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERBGSCKN_HIG): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERBGSCKN_LOW): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERBGSCKN_MID): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCACL_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCACL_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCACL_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCAIR_CEN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCAIR_SPL_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCCKN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCDATA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCFAN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCILU_CIA): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCILU_HAL): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCILU_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCILU_LFC): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCILU_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCILU_MID): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCILU_VAP): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCMPW_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCMPW_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERELCMPW_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCOTH_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCOTH_MID): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCREF_AUC_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERELCREF_CEN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTERLPGCKN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERNGSCKN_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTERNGSCKN_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] TotalAnnualMinCapacityInvestment: 43 combos regionalizados (266 filas SAND), 0 omitidos, 17 creados por decisión
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCACL_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCAIR_CEN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCAIR_SPL_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCCKN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCFAN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCILU_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCILU_MID): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCMPW_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCOTH_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCOTH_MID): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCREF_AUC_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERELCREF_CEN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMTERLPGCKN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[OK         ] TotalAnnualMaxCapacityInvestment: 43 combos regionalizados (266 filas SAND), 0 omitidos, 13 creados por decisión
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERBGSCKN_HIG): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERBGSCKN_LOW): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERBGSCKN_MID): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCACL_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCACL_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCACL_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCAIR_CEN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCAIR_SPL_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCCKN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCDATA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCFAN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCILU_CIA): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCILU_HAL): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCILU_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCILU_LFC): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCILU_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCILU_MID): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCILU_VAP): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCMPW_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCMPW_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCMPW_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCOTH_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCOTH_MID): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCREF_AUC_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERELCREF_CEN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTERLPGCKN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERNGSCKN_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTERNGSCKN_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] TotalTechnologyAnnualActivityLowerLimit: 43 combos regionalizados (266 filas SAND), 0 omitidos, 17 creados por decisión
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMTERLPGCKN_HIG): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[OK         ] TotalTechnologyAnnualActivityUpperLimit: 43 combos regionalizados (266 filas SAND), 0 omitidos, 1 creados por decisión
+[CREADO     ] SpecifiedAnnualDemand (TERDATA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] SpecifiedAnnualDemand (TERIHT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] SpecifiedAnnualDemand (TERILU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] SpecifiedAnnualDemand (TERMPW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] SpecifiedAnnualDemand: 11 combos regionalizados (69 filas SAND), 0 omitidos, 1 creados por decisión
+[OK         ] SpecifiedDemandProfile: 11 combos regionalizados (69 filas SAND), 0 omitidos, 0 creados por decisión
+[OK         ] CapitalCost: 43 combos regionalizados (266 filas SAND), 0 omitidos, 0 creados por decisión
+[OK         ] FixedCost: 43 combos regionalizados (266 filas SAND), 0 omitidos, 0 creados por decisión
+[OK         ] VariableCost: 43 combos regionalizados (266 filas SAND), 0 omitidos, 0 creados por decisión
+[OK         ] OutputActivityRatio: 196 combos regionalizados (1205 filas SAND), 0 omitidos, 0 creados por decisión
+[ADVERTENCIA] InputActivityRatio: Sin filas nacionales que pasen los filtros

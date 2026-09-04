@@ -1,0 +1,58 @@
+Log de regionalización — 2026-07-27 12:47:03
+======================================================================
+[ADVERTENCIA] ResidualCapacity (DEMAGFNGS): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMINDBAGFURCCS): Participación uniforme 1/2 en OR,SO
+[CREADO     ] ResidualCapacity (DEMINDBAGFUR_HIG): Participación uniforme 1/2 en OR,SO
+[CREADO     ] ResidualCapacity (DEMINDBAGFUR_LOW): Participación uniforme 1/2 en OR,SO
+[CREADO     ] ResidualCapacity (DEMINDBAGFUR_MID): Participación uniforme 1/2 en OR,SO
+[OK         ] ResidualCapacity: 9 combos regionalizados (41 filas SAND), 0 omitidos, 4 creados por decisión
+[OK         ] AccumulatedAnnualDemand: 2 combos regionalizados (14 filas SAND), 0 omitidos, 0 creados por decisión
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMAGFNGS): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGFURCCS): Participación uniforme 1/2 en OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGFUR_HIG): Participación uniforme 1/2 en OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGFUR_LOW): Participación uniforme 1/2 en OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGFUR_MID): Participación uniforme 1/2 en OR,SO
+[OK         ] TotalAnnualMinCapacityInvestment: 9 combos regionalizados (41 filas SAND), 0 omitidos, 4 creados por decisión
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGFURCCS): Participación uniforme 1/2 en OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGFUR_HIG): Participación uniforme 1/2 en OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGFUR_LOW): Participación uniforme 1/2 en OR,SO
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGFUR_MID): Participación uniforme 1/2 en OR,SO
+[OK         ] TotalAnnualMaxCapacityInvestment: 9 combos regionalizados (41 filas SAND), 0 omitidos, 4 creados por decisión
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMAGFNGS): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGFURCCS): Participación uniforme 1/2 en OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGFUR_HIG): Participación uniforme 1/2 en OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGFUR_LOW): Participación uniforme 1/2 en OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGFUR_MID): Participación uniforme 1/2 en OR,SO
+[OK         ] TotalTechnologyAnnualActivityLowerLimit: 9 combos regionalizados (41 filas SAND), 0 omitidos, 4 creados por decisión
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] TotalTechnologyAnnualActivityUpperLimit: 9 combos regionalizados (41 filas SAND), 0 omitidos, 4 creados por decisión
+[OK         ] SpecifiedAnnualDemand: 2 combos regionalizados (14 filas SAND), 0 omitidos, 0 creados por decisión
+[OK         ] SpecifiedDemandProfile: 1 combos regionalizados (7 filas SAND), 0 omitidos, 0 creados por decisión
+[CREADO     ] CapitalCost (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] CapitalCost: 9 combos regionalizados (41 filas SAND), 0 omitidos, 4 creados por decisión
+[CREADO     ] FixedCost (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] FixedCost: 9 combos regionalizados (41 filas SAND), 0 omitidos, 4 creados por decisión
+[CREADO     ] VariableCost (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] VariableCost: 9 combos regionalizados (41 filas SAND), 0 omitidos, 4 creados por decisión
+[CREADO     ] OutputActivityRatio (DEMINDBAGFURCCS AGFELC): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFURCCS AGFHEA): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFUR_HIG AGFELC): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFUR_HIG AGFHEA): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFUR_LOW AGFELC): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFUR_LOW AGFHEA): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFUR_MID AGFELC): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFUR_MID AGFHEA): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] OutputActivityRatio: 14 combos regionalizados (56 filas SAND), 0 omitidos, 8 creados por decisión
+[ADVERTENCIA] InputActivityRatio: Sin filas nacionales que pasen los filtros

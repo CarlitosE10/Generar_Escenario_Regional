@@ -1,0 +1,1044 @@
+Log de regionalización — 2026-07-27 15:34:45
+======================================================================
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] CapitalCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] FixedCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] InputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] OutputActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] VariableCost (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[CREADO     ] ResidualCapacity (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] ResidualCapacity (DEMINDBGSBOI_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDBGSBOI_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDBGSBOI_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDBGSFUR_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDBGSFUR_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDBGSFUR_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDDSLBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDDSLBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDDSLBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDDSLFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDDSLFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDDSLFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCAIR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCAIR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCAIR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCILU_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCILU_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCILU_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCMPW_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCMPW_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCMPW_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCOTH_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCOTH_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCREF_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCREF_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDELCREF_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDHDGBOI_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMINDHDGBOI_LOW): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMINDHDGFUR): Participación en regiones sin el código, descartada: AN,CA,IN,NE,SE,SO (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMINDLPGBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDLPGBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDLPGBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDLPGFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDLPGFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDLPGFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] ResidualCapacity (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] ResidualCapacity (DEMINDWASBOI_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDWASBOI_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDWASBOI_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDWASFUR_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDWASFUR_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMINDWASFUR_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] ResidualCapacity: 71 combos regionalizados (330 filas SAND), 0 omitidos, 59 creados por decisión
+[CREADO     ] AccumulatedAnnualDemand (INDCLIM): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] AccumulatedAnnualDemand (INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] AccumulatedAnnualDemand (INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] AccumulatedAnnualDemand (INDILU): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] AccumulatedAnnualDemand (INDMPW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] AccumulatedAnnualDemand (INDOTH_COA): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] AccumulatedAnnualDemand (INDOTH_ELC): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] AccumulatedAnnualDemand (INDREF): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] AccumulatedAnnualDemand: 8 combos regionalizados (40 filas SAND), 0 omitidos, 8 creados por decisión
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDBGSBOI_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDBGSBOI_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDBGSBOI_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDBGSFUR_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDBGSFUR_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDBGSFUR_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDDSLBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDDSLBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDDSLBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDDSLFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDDSLFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDDSLFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCAIR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCAIR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCAIR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCMPW_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCMPW_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCMPW_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCOTH_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCOTH_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCREF_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCREF_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDELCREF_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDHDGBOI_LOW): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDHDGFUR): Participación en regiones sin el código, descartada: AN,CA,IN,NE,SE,SO (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDLPGBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDLPGBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDLPGBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDLPGFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDLPGFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDLPGFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDWASBOI_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDWASBOI_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDWASBOI_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDWASFUR_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDWASFUR_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMINDWASFUR_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] TotalAnnualMinCapacityInvestment: 68 combos regionalizados (315 filas SAND), 0 omitidos, 56 creados por decisión
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalAnnualMaxCapacityInvestment (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] TotalAnnualMaxCapacityInvestment: 71 combos regionalizados (330 filas SAND), 0 omitidos, 24 creados por decisión
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDBGSBOI_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDBGSBOI_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDBGSBOI_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDBGSFUR_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDBGSFUR_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDBGSFUR_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDDSLBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDDSLBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDDSLBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDDSLFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDDSLFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDDSLFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCAIR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCAIR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCAIR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCILU_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCILU_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCILU_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCMPW_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCMPW_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCMPW_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCOTH_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCOTH_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCREF_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCREF_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDELCREF_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_HIG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGBOI_LOW): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDHDGFUR): Participación en regiones sin el código, descartada: AN,CA,IN,NE,SE,SO (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDLPGBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDLPGBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDLPGBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDLPGFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDLPGFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDLPGFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDWASBOI_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDWASBOI_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDWASBOI_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDWASFUR_HIG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDWASFUR_LOW): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMINDWASFUR_MID): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] TotalTechnologyAnnualActivityLowerLimit: 71 combos regionalizados (330 filas SAND), 0 omitidos, 59 creados por decisión
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] TotalTechnologyAnnualActivityUpperLimit (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] TotalTechnologyAnnualActivityUpperLimit: 71 combos regionalizados (330 filas SAND), 0 omitidos, 24 creados por decisión
+[CREADO     ] SpecifiedAnnualDemand (INDCLIM): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedAnnualDemand (INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedAnnualDemand (INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedAnnualDemand (INDILU): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedAnnualDemand (INDMPW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedAnnualDemand (INDOTH_ELC): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedAnnualDemand (INDREF): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] SpecifiedAnnualDemand: 7 combos regionalizados (35 filas SAND), 0 omitidos, 7 creados por decisión
+[CREADO     ] SpecifiedDemandProfile (INDCLIM): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedDemandProfile (INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedDemandProfile (INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedDemandProfile (INDILU): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedDemandProfile (INDMPW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] SpecifiedDemandProfile (INDREF): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] SpecifiedDemandProfile: 7 combos regionalizados (35 filas SAND), 0 omitidos, 6 creados por decisión
+[CREADO     ] CapitalCost (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] CapitalCost (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] CapitalCost: 71 combos regionalizados (330 filas SAND), 0 omitidos, 24 creados por decisión
+[CREADO     ] FixedCost (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] FixedCost (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] FixedCost: 71 combos regionalizados (330 filas SAND), 0 omitidos, 24 creados por decisión
+[CREADO     ] VariableCost (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] VariableCost (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] VariableCost: 71 combos regionalizados (330 filas SAND), 0 omitidos, 24 creados por decisión
+[CREADO     ] OutputActivityRatio (DEMINDAUTBOI INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDAUTFUR INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGBOI_HIG INDIHT): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGBOI_LOW INDIHT): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGBOI_MID INDIHT): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFURCCS INDDHT): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFUR_HIG INDDHT): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFUR_LOW INDDHT): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDBAGFUR_MID INDDHT): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDCOABOI_HIG INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDCOABOI_LOW INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDCOABOI_MID INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDCOAFUR_HIG INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDCOAFUR_LOW INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDCOAFUR_MID INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDCOAOTH_LOW INDOTH_COA): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDNGSBOI_HIG INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDNGSBOI_LOW INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDNGSBOI_MID INDIHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDNGSFURCSS INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDNGSFUR_HIG INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDNGSFUR_LOW INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] OutputActivityRatio (DEMINDNGSFUR_MID INDDHT): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] OutputActivityRatio: 70 combos regionalizados (329 filas SAND), 0 omitidos, 23 creados por decisión
+[ADVERTENCIA] InputActivityRatio: Sin filas nacionales que pasen los filtros
