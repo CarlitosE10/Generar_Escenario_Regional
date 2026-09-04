@@ -3,7 +3,9 @@
 - config_depurado.yaml: config de otoole (índices y dtypes de parámetros/sets).
 - config/params_config.yaml: clasificación aditivos/intensivos/condicionales,
   prefijos de región y diccionarios de mapeo para la regionalización.
-- config/paths_config.yaml: rutas de los archivos SAND y de participaciones.
+
+Las rutas de los SAND/participaciones ya NO se leen de un YAML: se definen en la
+celda "Configuración de rutas" de cada notebook (01/02/03) y en tests/test_smoke.py.
 """
 from __future__ import annotations
 
@@ -63,25 +65,3 @@ def cargar_params_config(path: str | Path) -> dict:
     config.setdefault("anio_maximo_comparacion", None)
     config.setdefault("top_n_grafica", 20)
     return config
-
-
-def cargar_paths_config(path: str | Path, raiz: str | Path | None = None) -> dict[str, Path]:
-    """Rutas del flujo resueltas contra la raíz del proyecto.
-
-    raiz: directorio base para rutas relativas; por defecto, la carpeta que
-    contiene el archivo de configuración (config/) sube un nivel.
-    """
-    path = Path(path)
-    config = cargar_yaml(path)
-    raiz = Path(raiz) if raiz is not None else path.parent.parent
-
-    def resolver(valor: str) -> Path:
-        p = Path(valor)
-        return p if p.is_absolute() else (raiz / p)
-
-    def resolver_nivel(valor):
-        if isinstance(valor, dict):
-            return {k: resolver_nivel(v) for k, v in valor.items()}
-        return resolver(valor)
-
-    return {clave: resolver_nivel(valor) for clave, valor in config.items()}

@@ -1,0 +1,593 @@
+﻿tipo,clasificacion,codigo_nacional,codigo_regional,region,base_regional,nota
+fuel,nacional_sin_regionalizar,CSP,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,DAM,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,ELCZNI,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,GEO,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,LPG,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,MINIGSL,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,OFW,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,OFW_FLO,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,OIL,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,OIL002,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,ONW,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,RESDHT_ZNI,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,RESELC_ZNI,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,ROR,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,SAF,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,SOL,,,,fuel nacional sin presencia regional
+fuel,nacional_sin_regionalizar,WND,,,,fuel nacional sin presencia regional
+fuel,sin_match,,BDL001,,BDL001,revisar: fuel regional sin prefijo ni equivalente nacional
+fuel,sin_match,,BET001,,BET001,revisar: fuel regional sin prefijo ni equivalente nacional
+fuel,sin_match,,DSL001,,DSL001,revisar: fuel regional sin prefijo ni equivalente nacional
+fuel,sin_match,,GSL001,,GSL001,revisar: fuel regional sin prefijo ni equivalente nacional
+fuel,sin_match,,JET001,,JET001,revisar: fuel regional sin prefijo ni equivalente nacional
+fuel,sin_match,,LPG001,,LPG001,revisar: fuel regional sin prefijo ni equivalente nacional
+fuel,sin_match,,AN_OIL001_1LIV,AN,OIL001_1LIV,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,CA_OIL001_1LIV,CA,OIL001_1LIV,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,NE_OIL001_1LIV,NE,OIL001_1LIV,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,OR_OIL001_1LIV,OR,OIL001_1LIV,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SO_OIL001_1LIV,SO,OIL001_1LIV,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,AN_OIL001_2MED,AN,OIL001_2MED,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,CA_OIL001_2MED,CA,OIL001_2MED,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,NE_OIL001_2MED,NE,OIL001_2MED,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,OR_OIL001_2MED,OR,OIL001_2MED,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SO_OIL001_2MED,SO,OIL001_2MED,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,AN_OIL001_3PES,AN,OIL001_3PES,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,CA_OIL001_3PES,CA,OIL001_3PES,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,NE_OIL001_3PES,NE,OIL001_3PES,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,OR_OIL001_3PES,OR,OIL001_3PES,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SO_OIL001_3PES,SO,OIL001_3PES,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,IN_OTHDSL,IN,OTHDSL,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SE_OTHDSL,SE,OTHDSL,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,IN_OTHELC,IN,OTHELC,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SE_OTHELC,SE,OTHELC,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,IN_OTHGSL,IN,OTHGSL,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SE_OTHGSL,SE,OTHGSL,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,IN_RESCLIM,IN,RESCLIM,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SE_RESCLIM,SE,RESCLIM,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,IN_RESDHT,IN,RESDHT,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SE_RESDHT,SE,RESDHT,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,IN_RESOTH,IN,RESOTH,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SE_RESOTH,SE,RESOTH,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,IN_RESREF,IN,RESREF,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SE_RESREF,SE,RESREF,revisar: fuel regional sin equivalente nacional
+fuel,sin_match,,SAF001,,SAF001,revisar: fuel regional sin prefijo ni equivalente nacional
+technology,nacional_sin_regionalizar,BACKSTOP_1,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,BACKSTOP_2,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,BBGDST,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,DEMRESZNIBGSCKN_MID,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,DEMRESZNIELCCKN_LOW,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,DEMRESZNIELC_LOW,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,DEMRESZNILPGCKN_MID,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,DEMRESZNIWOOCKN_LOW,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,EXPOIL,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,GRDCOADST,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,GRDDSTELC,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,GRDLPGDST,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,GRDNGSDST,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,GRDTYDELC,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,GRDZNIELC,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,IMPOIL,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,INDLOW,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,MINCSP,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,MINDAM,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,MINGEO,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,MINOFW_FIX,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,MINOFW_FLO,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,MINONW,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,MINROR,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,MINSOL,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,MINSOL_RTP,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,UPSREF_BAR,,,,tecnología nacional sin presencia regional
+technology,nacional_sin_regionalizar,UPSREF_CAR,,,,tecnología nacional sin presencia regional
+technology,sin_match,,AN_BACKSTOP_AGFELC,AN,BACKSTOP_AGFELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_AGFELC,CA,BACKSTOP_AGFELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_AGFELC,IN,BACKSTOP_AGFELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_AGFELC,NE,BACKSTOP_AGFELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_AGFELC,OR,BACKSTOP_AGFELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_AGFELC,SE,BACKSTOP_AGFELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_AGFELC,SO,BACKSTOP_AGFELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_AGFHEA,AN,BACKSTOP_AGFHEA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_AGFHEA,CA,BACKSTOP_AGFHEA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_AGFHEA,IN,BACKSTOP_AGFHEA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_AGFHEA,NE,BACKSTOP_AGFHEA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_AGFHEA,OR,BACKSTOP_AGFHEA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_AGFHEA,SE,BACKSTOP_AGFHEA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_AGFHEA,SO,BACKSTOP_AGFHEA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_INDCLIM,AN,BACKSTOP_INDCLIM,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_INDCLIM,CA,BACKSTOP_INDCLIM,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_INDCLIM,NE,BACKSTOP_INDCLIM,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_INDCLIM,OR,BACKSTOP_INDCLIM,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_INDCLIM,SO,BACKSTOP_INDCLIM,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_INDDHT,AN,BACKSTOP_INDDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_INDDHT,CA,BACKSTOP_INDDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_INDDHT,NE,BACKSTOP_INDDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_INDDHT,OR,BACKSTOP_INDDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_INDDHT,SO,BACKSTOP_INDDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_INDIHT,AN,BACKSTOP_INDIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_INDIHT,CA,BACKSTOP_INDIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_INDIHT,NE,BACKSTOP_INDIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_INDIHT,OR,BACKSTOP_INDIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_INDIHT,SO,BACKSTOP_INDIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_INDILU,AN,BACKSTOP_INDILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_INDILU,CA,BACKSTOP_INDILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_INDILU,NE,BACKSTOP_INDILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_INDILU,OR,BACKSTOP_INDILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_INDILU,SO,BACKSTOP_INDILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_INDMPW,AN,BACKSTOP_INDMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_INDMPW,CA,BACKSTOP_INDMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_INDMPW,NE,BACKSTOP_INDMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_INDMPW,OR,BACKSTOP_INDMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_INDMPW,SO,BACKSTOP_INDMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_INDOTH_COA,AN,BACKSTOP_INDOTH_COA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_INDOTH_COA,CA,BACKSTOP_INDOTH_COA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_INDOTH_COA,NE,BACKSTOP_INDOTH_COA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_INDOTH_COA,OR,BACKSTOP_INDOTH_COA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_INDOTH_COA,SO,BACKSTOP_INDOTH_COA,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_INDOTH_ELC,AN,BACKSTOP_INDOTH_ELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_INDOTH_ELC,CA,BACKSTOP_INDOTH_ELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_INDOTH_ELC,NE,BACKSTOP_INDOTH_ELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_INDOTH_ELC,OR,BACKSTOP_INDOTH_ELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_INDOTH_ELC,SO,BACKSTOP_INDOTH_ELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_INDREF,AN,BACKSTOP_INDREF,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_INDREF,CA,BACKSTOP_INDREF,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_INDREF,NE,BACKSTOP_INDREF,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_INDREF,OR,BACKSTOP_INDREF,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_INDREF,SO,BACKSTOP_INDREF,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_NSEELC,AN,BACKSTOP_NSEELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_NSEELC,CA,BACKSTOP_NSEELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_NSEELC,NE,BACKSTOP_NSEELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_NSEELC,OR,BACKSTOP_NSEELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_NSEELC,SO,BACKSTOP_NSEELC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_RESCLIM,IN,BACKSTOP_RESCLIM,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_RESCLIM,SE,BACKSTOP_RESCLIM,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESCLIM_RUR,AN,BACKSTOP_RESCLIM_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESCLIM_RUR,CA,BACKSTOP_RESCLIM_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESCLIM_RUR,NE,BACKSTOP_RESCLIM_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESCLIM_RUR,OR,BACKSTOP_RESCLIM_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESCLIM_RUR,SO,BACKSTOP_RESCLIM_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESCLIM_URB,AN,BACKSTOP_RESCLIM_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESCLIM_URB,CA,BACKSTOP_RESCLIM_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESCLIM_URB,NE,BACKSTOP_RESCLIM_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESCLIM_URB,OR,BACKSTOP_RESCLIM_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESCLIM_URB,SO,BACKSTOP_RESCLIM_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_RESDHT,IN,BACKSTOP_RESDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_RESDHT,SE,BACKSTOP_RESDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESDHT_RUR,AN,BACKSTOP_RESDHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESDHT_RUR,CA,BACKSTOP_RESDHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESDHT_RUR,NE,BACKSTOP_RESDHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESDHT_RUR,OR,BACKSTOP_RESDHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESDHT_RUR,SO,BACKSTOP_RESDHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESDHT_URB,AN,BACKSTOP_RESDHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESDHT_URB,CA,BACKSTOP_RESDHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESDHT_URB,NE,BACKSTOP_RESDHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESDHT_URB,OR,BACKSTOP_RESDHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESDHT_URB,SO,BACKSTOP_RESDHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESILU_RUR,AN,BACKSTOP_RESILU_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESILU_RUR,CA,BACKSTOP_RESILU_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESILU_RUR,NE,BACKSTOP_RESILU_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESILU_RUR,OR,BACKSTOP_RESILU_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESILU_RUR,SO,BACKSTOP_RESILU_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESILU_URB,AN,BACKSTOP_RESILU_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESILU_URB,CA,BACKSTOP_RESILU_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESILU_URB,NE,BACKSTOP_RESILU_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESILU_URB,OR,BACKSTOP_RESILU_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESILU_URB,SO,BACKSTOP_RESILU_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_RESOTH,IN,BACKSTOP_RESOTH,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_RESOTH,SE,BACKSTOP_RESOTH,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESOTH_RUR,AN,BACKSTOP_RESOTH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESOTH_RUR,CA,BACKSTOP_RESOTH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESOTH_RUR,NE,BACKSTOP_RESOTH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESOTH_RUR,OR,BACKSTOP_RESOTH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESOTH_RUR,SO,BACKSTOP_RESOTH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESOTH_URB,AN,BACKSTOP_RESOTH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESOTH_URB,CA,BACKSTOP_RESOTH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESOTH_URB,NE,BACKSTOP_RESOTH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESOTH_URB,OR,BACKSTOP_RESOTH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESOTH_URB,SO,BACKSTOP_RESOTH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_RESREF,IN,BACKSTOP_RESREF,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_RESREF,SE,BACKSTOP_RESREF,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESREF_RUR,AN,BACKSTOP_RESREF_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESREF_RUR,CA,BACKSTOP_RESREF_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESREF_RUR,NE,BACKSTOP_RESREF_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESREF_RUR,OR,BACKSTOP_RESREF_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESREF_RUR,SO,BACKSTOP_RESREF_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESREF_URB,AN,BACKSTOP_RESREF_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESREF_URB,CA,BACKSTOP_RESREF_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESREF_URB,NE,BACKSTOP_RESREF_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESREF_URB,OR,BACKSTOP_RESREF_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESREF_URB,SO,BACKSTOP_RESREF_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESTV_RUR,AN,BACKSTOP_RESTV_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESTV_RUR,CA,BACKSTOP_RESTV_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESTV_RUR,NE,BACKSTOP_RESTV_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESTV_RUR,OR,BACKSTOP_RESTV_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESTV_RUR,SO,BACKSTOP_RESTV_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESTV_URB,AN,BACKSTOP_RESTV_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESTV_URB,CA,BACKSTOP_RESTV_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESTV_URB,NE,BACKSTOP_RESTV_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESTV_URB,OR,BACKSTOP_RESTV_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESTV_URB,SO,BACKSTOP_RESTV_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESWHT_RUR,AN,BACKSTOP_RESWHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESWHT_RUR,CA,BACKSTOP_RESWHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESWHT_RUR,NE,BACKSTOP_RESWHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESWHT_RUR,OR,BACKSTOP_RESWHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESWHT_RUR,SO,BACKSTOP_RESWHT_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESWHT_URB,AN,BACKSTOP_RESWHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESWHT_URB,CA,BACKSTOP_RESWHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESWHT_URB,NE,BACKSTOP_RESWHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESWHT_URB,OR,BACKSTOP_RESWHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESWHT_URB,SO,BACKSTOP_RESWHT_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESWSH_RUR,AN,BACKSTOP_RESWSH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESWSH_RUR,CA,BACKSTOP_RESWSH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESWSH_RUR,NE,BACKSTOP_RESWSH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESWSH_RUR,OR,BACKSTOP_RESWSH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESWSH_RUR,SO,BACKSTOP_RESWSH_RUR,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_RESWSH_URB,AN,BACKSTOP_RESWSH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_RESWSH_URB,CA,BACKSTOP_RESWSH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_RESWSH_URB,NE,BACKSTOP_RESWSH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_RESWSH_URB,OR,BACKSTOP_RESWSH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_RESWSH_URB,SO,BACKSTOP_RESWSH_URB,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TERCLIM_CEN,AN,BACKSTOP_TERCLIM_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TERCLIM_CEN,CA,BACKSTOP_TERCLIM_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TERCLIM_CEN,IN,BACKSTOP_TERCLIM_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TERCLIM_CEN,NE,BACKSTOP_TERCLIM_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TERCLIM_CEN,OR,BACKSTOP_TERCLIM_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TERCLIM_CEN,SE,BACKSTOP_TERCLIM_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TERCLIM_CEN,SO,BACKSTOP_TERCLIM_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TERCLIM_FAN,AN,BACKSTOP_TERCLIM_FAN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TERCLIM_FAN,CA,BACKSTOP_TERCLIM_FAN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TERCLIM_FAN,IN,BACKSTOP_TERCLIM_FAN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TERCLIM_FAN,NE,BACKSTOP_TERCLIM_FAN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TERCLIM_FAN,OR,BACKSTOP_TERCLIM_FAN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TERCLIM_FAN,SE,BACKSTOP_TERCLIM_FAN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TERCLIM_FAN,SO,BACKSTOP_TERCLIM_FAN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TERCLIM_SPL,AN,BACKSTOP_TERCLIM_SPL,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TERCLIM_SPL,CA,BACKSTOP_TERCLIM_SPL,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TERCLIM_SPL,IN,BACKSTOP_TERCLIM_SPL,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TERCLIM_SPL,NE,BACKSTOP_TERCLIM_SPL,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TERCLIM_SPL,OR,BACKSTOP_TERCLIM_SPL,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TERCLIM_SPL,SE,BACKSTOP_TERCLIM_SPL,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TERCLIM_SPL,SO,BACKSTOP_TERCLIM_SPL,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TERDHT,AN,BACKSTOP_TERDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TERDHT,CA,BACKSTOP_TERDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TERDHT,IN,BACKSTOP_TERDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TERDHT,NE,BACKSTOP_TERDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TERDHT,OR,BACKSTOP_TERDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TERDHT,SE,BACKSTOP_TERDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TERDHT,SO,BACKSTOP_TERDHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TERIHT,AN,BACKSTOP_TERIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TERIHT,CA,BACKSTOP_TERIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TERIHT,NE,BACKSTOP_TERIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TERIHT,OR,BACKSTOP_TERIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TERIHT,SO,BACKSTOP_TERIHT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TERILU,AN,BACKSTOP_TERILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TERILU,CA,BACKSTOP_TERILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TERILU,NE,BACKSTOP_TERILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TERILU,OR,BACKSTOP_TERILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TERILU,SO,BACKSTOP_TERILU,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TERMPW,AN,BACKSTOP_TERMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TERMPW,CA,BACKSTOP_TERMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TERMPW,NE,BACKSTOP_TERMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TERMPW,OR,BACKSTOP_TERMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TERMPW,SO,BACKSTOP_TERMPW,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TEROTH,AN,BACKSTOP_TEROTH,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TEROTH,CA,BACKSTOP_TEROTH,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TEROTH,IN,BACKSTOP_TEROTH,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TEROTH,NE,BACKSTOP_TEROTH,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TEROTH,OR,BACKSTOP_TEROTH,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TEROTH,SE,BACKSTOP_TEROTH,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TEROTH,SO,BACKSTOP_TEROTH,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TERREF_AUC,AN,BACKSTOP_TERREF_AUC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TERREF_AUC,CA,BACKSTOP_TERREF_AUC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TERREF_AUC,IN,BACKSTOP_TERREF_AUC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TERREF_AUC,NE,BACKSTOP_TERREF_AUC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TERREF_AUC,OR,BACKSTOP_TERREF_AUC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TERREF_AUC,SE,BACKSTOP_TERREF_AUC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TERREF_AUC,SO,BACKSTOP_TERREF_AUC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TERREF_CEN,AN,BACKSTOP_TERREF_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TERREF_CEN,CA,BACKSTOP_TERREF_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TERREF_CEN,IN,BACKSTOP_TERREF_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TERREF_CEN,NE,BACKSTOP_TERREF_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TERREF_CEN,OR,BACKSTOP_TERREF_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TERREF_CEN,SE,BACKSTOP_TERREF_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TERREF_CEN,SO,BACKSTOP_TERREF_CEN,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRAAVI,AN,BACKSTOP_TRAAVI,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRAAVI,CA,BACKSTOP_TRAAVI,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TRAAVI,IN,BACKSTOP_TRAAVI,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRAAVI,NE,BACKSTOP_TRAAVI,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRAAVI,OR,BACKSTOP_TRAAVI,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TRAAVI,SE,BACKSTOP_TRAAVI,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRAAVI,SO,BACKSTOP_TRAAVI,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRABUS,AN,BACKSTOP_TRABUS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRABUS,CA,BACKSTOP_TRABUS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRABUS,NE,BACKSTOP_TRABUS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRABUS,OR,BACKSTOP_TRABUS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRABUS,SO,BACKSTOP_TRABUS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRAFWD,AN,BACKSTOP_TRAFWD,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRAFWD,CA,BACKSTOP_TRAFWD,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TRAFWD,IN,BACKSTOP_TRAFWD,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRAFWD,NE,BACKSTOP_TRAFWD,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRAFWD,OR,BACKSTOP_TRAFWD,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TRAFWD,SE,BACKSTOP_TRAFWD,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRAFWD,SO,BACKSTOP_TRAFWD,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRALDV,AN,BACKSTOP_TRALDV,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRALDV,CA,BACKSTOP_TRALDV,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TRALDV,IN,BACKSTOP_TRALDV,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRALDV,NE,BACKSTOP_TRALDV,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRALDV,OR,BACKSTOP_TRALDV,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TRALDV,SE,BACKSTOP_TRALDV,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRALDV,SO,BACKSTOP_TRALDV,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRAMAS,AN,BACKSTOP_TRAMAS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRAMAS,CA,BACKSTOP_TRAMAS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRAMAS,NE,BACKSTOP_TRAMAS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRAMAS,OR,BACKSTOP_TRAMAS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRAMAS,SO,BACKSTOP_TRAMAS,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRAMET,AN,BACKSTOP_TRAMET,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRAMET,OR,BACKSTOP_TRAMET,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRAMET,SO,BACKSTOP_TRAMET,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRAMIC,AN,BACKSTOP_TRAMIC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRAMIC,CA,BACKSTOP_TRAMIC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TRAMIC,IN,BACKSTOP_TRAMIC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRAMIC,NE,BACKSTOP_TRAMIC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRAMIC,OR,BACKSTOP_TRAMIC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TRAMIC,SE,BACKSTOP_TRAMIC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRAMIC,SO,BACKSTOP_TRAMIC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRAMRT,AN,BACKSTOP_TRAMRT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRAMRT,CA,BACKSTOP_TRAMRT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TRAMRT,IN,BACKSTOP_TRAMRT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRAMRT,SO,BACKSTOP_TRAMRT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRAMTC,AN,BACKSTOP_TRAMTC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRAMTC,CA,BACKSTOP_TRAMTC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TRAMTC,IN,BACKSTOP_TRAMTC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRAMTC,NE,BACKSTOP_TRAMTC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRAMTC,OR,BACKSTOP_TRAMTC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TRAMTC,SE,BACKSTOP_TRAMTC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRAMTC,SO,BACKSTOP_TRAMTC,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRARVT,AN,BACKSTOP_TRARVT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRARVT,CA,BACKSTOP_TRARVT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRARVT,NE,BACKSTOP_TRARVT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRARVT,OR,BACKSTOP_TRARVT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TRARVT,SE,BACKSTOP_TRARVT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRARVT,SO,BACKSTOP_TRARVT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRASTT,AN,BACKSTOP_TRASTT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRASTT,CA,BACKSTOP_TRASTT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRASTT,NE,BACKSTOP_TRASTT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRASTT,OR,BACKSTOP_TRASTT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRASTT,SO,BACKSTOP_TRASTT,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRATAX,AN,BACKSTOP_TRATAX,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRATAX,CA,BACKSTOP_TRATAX,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TRATAX,IN,BACKSTOP_TRATAX,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRATAX,NE,BACKSTOP_TRATAX,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRATAX,OR,BACKSTOP_TRATAX,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TRATAX,SE,BACKSTOP_TRATAX,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRATAX,SO,BACKSTOP_TRATAX,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,AN_BACKSTOP_TRATCK,AN,BACKSTOP_TRATCK,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,CA_BACKSTOP_TRATCK,CA,BACKSTOP_TRATCK,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,IN_BACKSTOP_TRATCK,IN,BACKSTOP_TRATCK,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_BACKSTOP_TRATCK,NE,BACKSTOP_TRATCK,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,OR_BACKSTOP_TRATCK,OR,BACKSTOP_TRATCK,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SE_BACKSTOP_TRATCK,SE,BACKSTOP_TRATCK,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,SO_BACKSTOP_TRATCK,SO,BACKSTOP_TRATCK,"BACKSTOP (tecnología de respaldo, nueva por diseño)"
+technology,sin_match,,NE_DEMCOQELC,NE,DEMCOQELC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_DEMCOQELC,OR,DEMCOQELC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMOTHDSL,IN,DEMOTHDSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMOTHDSL,SE,DEMOTHDSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMOTHELC,IN,DEMOTHELC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMOTHELC,SE,DEMOTHELC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMOTHGSL,IN,DEMOTHGSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMOTHGSL,SE,DEMOTHGSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESBGSCKN_MID,SE,DEMRESBGSCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCAIR_PAR_HIG,IN,DEMRESELCAIR_PAR_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCAIR_PAR_HIG,SE,DEMRESELCAIR_PAR_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_DEMRESELCAIR_PAR_HIG_URB,AN,DEMRESELCAIR_PAR_HIG_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_DEMRESELCAIR_PAR_HIG_URB,CA,DEMRESELCAIR_PAR_HIG_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_DEMRESELCAIR_PAR_HIG_URB,NE,DEMRESELCAIR_PAR_HIG_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_DEMRESELCAIR_PAR_HIG_URB,OR,DEMRESELCAIR_PAR_HIG_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_DEMRESELCAIR_PAR_HIG_URB,SO,DEMRESELCAIR_PAR_HIG_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCAIR_PAR_LOW,IN,DEMRESELCAIR_PAR_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCAIR_PAR_LOW,SE,DEMRESELCAIR_PAR_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCAIR_PAR_MID,IN,DEMRESELCAIR_PAR_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCAIR_PAR_MID,SE,DEMRESELCAIR_PAR_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCAIR_POR_HIG,IN,DEMRESELCAIR_POR_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCAIR_POR_HIG,SE,DEMRESELCAIR_POR_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCAIR_POR_LOW,IN,DEMRESELCAIR_POR_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCAIR_POR_LOW,SE,DEMRESELCAIR_POR_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCAIR_POR_MID,IN,DEMRESELCAIR_POR_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCAIR_POR_MID,SE,DEMRESELCAIR_POR_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCAIR_SPL_HIG,IN,DEMRESELCAIR_SPL_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCAIR_SPL_HIG,SE,DEMRESELCAIR_SPL_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCAIR_SPL_LOW,IN,DEMRESELCAIR_SPL_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCAIR_SPL_LOW,SE,DEMRESELCAIR_SPL_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCAIR_SPL_MID,IN,DEMRESELCAIR_SPL_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCAIR_SPL_MID,SE,DEMRESELCAIR_SPL_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCCKN_HIG,IN,DEMRESELCCKN_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCCKN_HIG,SE,DEMRESELCCKN_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCCKN_LOW,IN,DEMRESELCCKN_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCCKN_LOW,SE,DEMRESELCCKN_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCCKN_MID,IN,DEMRESELCCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCCKN_MID,SE,DEMRESELCCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCFAN_HIG,IN,DEMRESELCFAN_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCFAN_HIG,SE,DEMRESELCFAN_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCFAN_LOW,IN,DEMRESELCFAN_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCFAN_LOW,SE,DEMRESELCFAN_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCFAN_MID,IN,DEMRESELCFAN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCFAN_MID,SE,DEMRESELCFAN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCOTH_HIG,IN,DEMRESELCOTH_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCOTH_HIG,SE,DEMRESELCOTH_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCOTH_LOW,IN,DEMRESELCOTH_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCOTH_LOW,SE,DEMRESELCOTH_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCOTH_MID,IN,DEMRESELCOTH_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCOTH_MID,SE,DEMRESELCOTH_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCREF_HIG,IN,DEMRESELCREF_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCREF_HIG,SE,DEMRESELCREF_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCREF_LOW,IN,DEMRESELCREF_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCREF_LOW,SE,DEMRESELCREF_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESELCREF_MID,IN,DEMRESELCREF_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESELCREF_MID,SE,DEMRESELCREF_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESLPGCKN_HIG,IN,DEMRESLPGCKN_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESLPGCKN_HIG,SE,DEMRESLPGCKN_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESLPGCKN_LOW,IN,DEMRESLPGCKN_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESLPGCKN_LOW,SE,DEMRESLPGCKN_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESLPGCKN_MID,IN,DEMRESLPGCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESLPGCKN_MID,SE,DEMRESLPGCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_DEMRESNGSWHT_NAT_MID_RUR,AN,DEMRESNGSWHT_NAT_MID_RUR,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_DEMRESNGSWHT_NAT_MID_RUR,CA,DEMRESNGSWHT_NAT_MID_RUR,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_DEMRESNGSWHT_NAT_MID_RUR,NE,DEMRESNGSWHT_NAT_MID_RUR,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_DEMRESNGSWHT_NAT_MID_RUR,OR,DEMRESNGSWHT_NAT_MID_RUR,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_DEMRESNGSWHT_NAT_MID_RUR,SO,DEMRESNGSWHT_NAT_MID_RUR,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_DEMRESNGSWHT_NAT_MID_URB,AN,DEMRESNGSWHT_NAT_MID_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_DEMRESNGSWHT_NAT_MID_URB,CA,DEMRESNGSWHT_NAT_MID_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_DEMRESNGSWHT_NAT_MID_URB,NE,DEMRESNGSWHT_NAT_MID_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_DEMRESNGSWHT_NAT_MID_URB,OR,DEMRESNGSWHT_NAT_MID_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_DEMRESNGSWHT_NAT_MID_URB,SO,DEMRESNGSWHT_NAT_MID_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESWOOCKN_HIG,IN,DEMRESWOOCKN_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESWOOCKN_HIG,SE,DEMRESWOOCKN_HIG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESWOOCKN_LOW,IN,DEMRESWOOCKN_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESWOOCKN_LOW,SE,DEMRESWOOCKN_LOW,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_DEMRESWOOCKN_MID,IN,DEMRESWOOCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_DEMRESWOOCKN_MID,SE,DEMRESWOOCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_DEMTERNGSCKN_MID,AN,DEMTERNGSCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_DEMTERNGSCKN_MID,CA,DEMTERNGSCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_DEMTERNGSCKN_MID,NE,DEMTERNGSCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_DEMTERNGSCKN_MID,OR,DEMTERNGSCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_DEMTERNGSCKN_MID,SO,DEMTERNGSCKN_MID,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_DEMTRAELCMTC,AN,DEMTRAELCMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_DEMTRAELCMTC,CA,DEMTRAELCMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_DEMTRAELCMTC,NE,DEMTRAELCMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_DEMTRAELCMTC,OR,DEMTRAELCMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_DEMTRAELCMTC,SO,DEMTRAELCMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_DEMTRAGSLBUS_URB,AN,DEMTRAGSLBUS_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_DEMTRAGSLBUS_URB,CA,DEMTRAGSLBUS_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_DEMTRAGSLBUS_URB,NE,DEMTRAGSLBUS_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_DEMTRAGSLBUS_URB,OR,DEMTRAGSLBUS_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_DEMTRAGSLBUS_URB,SO,DEMTRAGSLBUS_URB,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_DEMTRAGSLMTC,AN,DEMTRAGSLMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_DEMTRAGSLMTC,CA,DEMTRAGSLMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_DEMTRAGSLMTC,NE,DEMTRAGSLMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_DEMTRAGSLMTC,OR,DEMTRAGSLMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_DEMTRAGSLMTC,SO,DEMTRAGSLMTC,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_EXPCOA,CA,EXPCOA,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_EXPOIL_1LIV,CA,EXPOIL_1LIV,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_EXPOIL_1LIV,SO,EXPOIL_1LIV,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_EXPOIL_2MED,CA,EXPOIL_2MED,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_EXPOIL_2MED,SO,EXPOIL_2MED,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_EXPOIL_3PES,CA,EXPOIL_3PES,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_EXPOIL_3PES,SO,EXPOIL_3PES,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_IMPBET,CA,IMPBET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_IMPBET,SO,IMPBET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_IMPOIL_1LIV,CA,IMPOIL_1LIV,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_IMPOIL_1LIV,SO,IMPOIL_1LIV,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_IMPOIL_2MED,CA,IMPOIL_2MED,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_IMPOIL_2MED,SO,IMPOIL_2MED,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_IMPOIL_3PES,CA,IMPOIL_3PES,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_IMPOIL_3PES,SO,IMPOIL_3PES,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_MINOIL_1LIV,AN,MINOIL_1LIV,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_MINOIL_1LIV,CA,MINOIL_1LIV,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_MINOIL_1LIV,NE,MINOIL_1LIV,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_MINOIL_1LIV,OR,MINOIL_1LIV,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_MINOIL_1LIV,SO,MINOIL_1LIV,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_MINOIL_2MED,AN,MINOIL_2MED,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_MINOIL_2MED,CA,MINOIL_2MED,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_MINOIL_2MED,NE,MINOIL_2MED,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_MINOIL_2MED,OR,MINOIL_2MED,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_MINOIL_2MED,SO,MINOIL_2MED,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_MINOIL_3PES,AN,MINOIL_3PES,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_MINOIL_3PES,CA,MINOIL_3PES,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_MINOIL_3PES,NE,MINOIL_3PES,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_MINOIL_3PES,OR,MINOIL_3PES,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_MINOIL_3PES,SO,MINOIL_3PES,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_PWRDIST,AN,PWRDIST,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_PWRDIST,CA,PWRDIST,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_PWRDIST,NE,PWRDIST,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_PWRDIST,OR,PWRDIST,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_PWRDIST,SO,PWRDIST,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_PWRTRN,AN,PWRTRN,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_PWRTRN,CA,PWRTRN,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_PWRTRN,NE,PWRTRN,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_PWRTRN,OR,PWRTRN,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_PWRTRN,SO,PWRTRN,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_PWRWAS,AN,PWRWAS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_PWRWAS,CA,PWRWAS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_PWRWAS,NE,PWRWAS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_PWRWAS,OR,PWRWAS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_PWRWAS,SE,PWRWAS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_PWRWAS,SO,PWRWAS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,TRNELC_AN_NE,,TRNELC_AN_NE,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNELC_CA_AN,,TRNELC_CA_AN,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNELC_CA_NE,,TRNELC_CA_NE,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNELC_CA_OR,,TRNELC_CA_OR,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNELC_CA_SO,,TRNELC_CA_SO,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNELC_OR_AN,,TRNELC_OR_AN,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNELC_OR_NE,,TRNELC_OR_NE,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNELC_OR_SO,,TRNELC_OR_SO,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNELC_SO_AN,,TRNELC_SO_AN,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNELC_SO_NE,,TRNELC_SO_NE,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNNGS_CA_NE,,TRNNGS_CA_NE,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNNGS_NE_AN,,TRNNGS_NE_AN,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNNGS_NE_OR,,TRNNGS_NE_OR,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNNGS_NE_SO,,TRNNGS_NE_SO,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_AN_CA_1LIV,,TRNOIL_AN_CA_1LIV,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_AN_CA_2MED,,TRNOIL_AN_CA_2MED,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_AN_CA_3PES,,TRNOIL_AN_CA_3PES,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_NE_AN_1LIV,,TRNOIL_NE_AN_1LIV,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_NE_AN_2MED,,TRNOIL_NE_AN_2MED,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_NE_AN_3PES,,TRNOIL_NE_AN_3PES,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_NE_CA_1LIV,,TRNOIL_NE_CA_1LIV,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_NE_CA_2MED,,TRNOIL_NE_CA_2MED,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_NE_CA_3PES,,TRNOIL_NE_CA_3PES,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_OR_NE_1LIV,,TRNOIL_OR_NE_1LIV,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_OR_NE_2MED,,TRNOIL_OR_NE_2MED,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_OR_NE_3PES,,TRNOIL_OR_NE_3PES,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_SO_AN_1LIV,,TRNOIL_SO_AN_1LIV,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_SO_AN_2MED,,TRNOIL_SO_AN_2MED,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRNOIL_SO_AN_3PES,,TRNOIL_SO_AN_3PES,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRN_CA_AN,,TRN_CA_AN,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRN_CA_CA,,TRN_CA_CA,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRN_CA_NE,,TRN_CA_NE,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRN_CA_OR,,TRN_CA_OR,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,TRN_CA_SO,,TRN_CA_SO,"TRN (comercio inter-regional, nueva por diseño)"
+technology,sin_match,,AN_TYDBDL,AN,TYDBDL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_TYDBDL,CA,TYDBDL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_TYDBDL,NE,TYDBDL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_TYDBDL,OR,TYDBDL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_TYDBDL,SO,TYDBDL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_TYDBET,AN,TYDBET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_TYDBET,CA,TYDBET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_TYDBET,NE,TYDBET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_TYDBET,OR,TYDBET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_TYDBET,SO,TYDBET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_TYDDSL,AN,TYDDSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_TYDDSL,CA,TYDDSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_TYDDSL,IN,TYDDSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_TYDDSL,NE,TYDDSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_TYDDSL,OR,TYDDSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_TYDDSL,SE,TYDDSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_TYDDSL,SO,TYDDSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_TYDGSL,AN,TYDGSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_TYDGSL,CA,TYDGSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_TYDGSL,IN,TYDGSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_TYDGSL,NE,TYDGSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_TYDGSL,OR,TYDGSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_TYDGSL,SE,TYDGSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_TYDGSL,SO,TYDGSL,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_TYDJET,AN,TYDJET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_TYDJET,CA,TYDJET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_TYDJET,IN,TYDJET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_TYDJET,NE,TYDJET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_TYDJET,OR,TYDJET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_TYDJET,SE,TYDJET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_TYDJET,SO,TYDJET,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_TYDLPG,AN,TYDLPG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_TYDLPG,CA,TYDLPG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,IN_TYDLPG,IN,TYDLPG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_TYDLPG,NE,TYDLPG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_TYDLPG,OR,TYDLPG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SE_TYDLPG,SE,TYDLPG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_TYDLPG,SO,TYDLPG,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,AN_TYDNGS,AN,TYDNGS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_TYDNGS,CA,TYDNGS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_TYDNGS,NE,TYDNGS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,OR_TYDNGS,OR,TYDNGS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,SO_TYDNGS,SO,TYDNGS,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,CA_UPSREF,CA,UPSREF,revisar: tecnología regional sin equivalente nacional
+technology,sin_match,,NE_UPSREF,NE,UPSREF,revisar: tecnología regional sin equivalente nacional

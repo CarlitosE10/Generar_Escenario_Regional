@@ -1,0 +1,520 @@
+Log de regionalización — 2026-07-25 00:12:30
+======================================================================
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSBOI_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] EmissionActivityRatio (DEMINDBGSFUR_MID): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_HIG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2022
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2023
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2024
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2025
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2026
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2027
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2028
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2029
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2030
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2031
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2032
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2033
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2034
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2035
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2036
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2037
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2038
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2039
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2040
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2041
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2042
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2043
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2044
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2045
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2046
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2047
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2048
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2049
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2050
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2051
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2052
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2053
+[ADVERTENCIA] EmissionActivityRatio (DEMINDHDGBOI_LOW): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=2054
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTBOI): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDAUTFUR): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGBOI_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFURCCS): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_HIG): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_LOW): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDBAGFUR_MID): Emitido solo en regiones existentes (OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOABOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDCOAOTH_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSBOI_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFURCSS): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_HIG): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_LOW): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[CREADO     ] EmissionActivityRatio (DEMINDNGSFUR_MID): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[OK         ] EmissionActivityRatio: 4004 combos regionalizados (20094 filas SAND), 0 omitidos, 253 creados por decisión

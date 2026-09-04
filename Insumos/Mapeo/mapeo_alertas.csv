@@ -1,0 +1,234 @@
+﻿categoria,detalle
+codigo_regional_sin_prefijo,fuel BDL001 (sin equivalente nacional)
+codigo_regional_sin_prefijo,fuel BET001 (sin equivalente nacional)
+codigo_regional_sin_prefijo,fuel DSL001 (sin equivalente nacional)
+codigo_regional_sin_prefijo,fuel GSL001 (sin equivalente nacional)
+codigo_regional_sin_prefijo,fuel JET001 (sin equivalente nacional)
+codigo_regional_sin_prefijo,fuel LPG001 (sin equivalente nacional)
+codigo_regional_sin_prefijo,fuel SAF001 (sin equivalente nacional)
+codigo_regional_sin_prefijo,technology TRNELC_AN_NE
+codigo_regional_sin_prefijo,technology TRNELC_CA_AN
+codigo_regional_sin_prefijo,technology TRNELC_CA_NE
+codigo_regional_sin_prefijo,technology TRNELC_CA_OR
+codigo_regional_sin_prefijo,technology TRNELC_CA_SO
+codigo_regional_sin_prefijo,technology TRNELC_OR_AN
+codigo_regional_sin_prefijo,technology TRNELC_OR_NE
+codigo_regional_sin_prefijo,technology TRNELC_OR_SO
+codigo_regional_sin_prefijo,technology TRNELC_SO_AN
+codigo_regional_sin_prefijo,technology TRNELC_SO_NE
+codigo_regional_sin_prefijo,technology TRNNGS_CA_NE
+codigo_regional_sin_prefijo,technology TRNNGS_NE_AN
+codigo_regional_sin_prefijo,technology TRNNGS_NE_OR
+codigo_regional_sin_prefijo,technology TRNNGS_NE_SO
+codigo_regional_sin_prefijo,technology TRNOIL_AN_CA_1LIV
+codigo_regional_sin_prefijo,technology TRNOIL_AN_CA_2MED
+codigo_regional_sin_prefijo,technology TRNOIL_AN_CA_3PES
+codigo_regional_sin_prefijo,technology TRNOIL_NE_AN_1LIV
+codigo_regional_sin_prefijo,technology TRNOIL_NE_AN_2MED
+codigo_regional_sin_prefijo,technology TRNOIL_NE_AN_3PES
+codigo_regional_sin_prefijo,technology TRNOIL_NE_CA_1LIV
+codigo_regional_sin_prefijo,technology TRNOIL_NE_CA_2MED
+codigo_regional_sin_prefijo,technology TRNOIL_NE_CA_3PES
+codigo_regional_sin_prefijo,technology TRNOIL_OR_NE_1LIV
+codigo_regional_sin_prefijo,technology TRNOIL_OR_NE_2MED
+codigo_regional_sin_prefijo,technology TRNOIL_OR_NE_3PES
+codigo_regional_sin_prefijo,technology TRNOIL_SO_AN_1LIV
+codigo_regional_sin_prefijo,technology TRNOIL_SO_AN_2MED
+codigo_regional_sin_prefijo,technology TRNOIL_SO_AN_3PES
+codigo_regional_sin_prefijo,technology TRN_CA_AN
+codigo_regional_sin_prefijo,technology TRN_CA_CA
+codigo_regional_sin_prefijo,technology TRN_CA_NE
+codigo_regional_sin_prefijo,technology TRN_CA_OR
+codigo_regional_sin_prefijo,technology TRN_CA_SO
+colision_de_cadena,GSL022 -> MINIGSL: 'MINIGSL' es también un fuel nacional que quedó sin base regional propia (revisar)
+conexion_sin_equivalente_nacional,AN_DEMCONSDSL: iar:AN_DSL002->DSL
+conexion_sin_equivalente_nacional,AN_DEMCONSGSL: iar:AN_GSL002->GSL
+conexion_sin_equivalente_nacional,AN_DEMINDDSLBOI_HIG: iar:AN_DSL002->DSL
+conexion_sin_equivalente_nacional,AN_DEMINDDSLBOI_LOW: iar:AN_DSL002->DSL
+conexion_sin_equivalente_nacional,AN_DEMINDDSLBOI_MID: iar:AN_DSL002->DSL
+conexion_sin_equivalente_nacional,AN_DEMINDDSLFUR_HIG: iar:AN_DSL002->DSL
+conexion_sin_equivalente_nacional,AN_DEMINDDSLFUR_LOW: iar:AN_DSL002->DSL
+conexion_sin_equivalente_nacional,AN_DEMINDDSLFUR_MID: iar:AN_DSL002->DSL
+conexion_sin_equivalente_nacional,AN_DEMMINIDSL: iar:AN_DSL002->DSL
+conexion_sin_equivalente_nacional,AN_DEMMINIGSL: iar:AN_GSL002->GSL; oar:AN_MINIGSL->GSL022
+conexion_sin_equivalente_nacional,AN_DEMNGSAUT: iar:AN_NGS002->NGS002
+conexion_sin_equivalente_nacional,AN_DEMTRAELCMET: iar:AN_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,AN_PWRNGSCCS: iar:AN_NGS002->NGS002
+conexion_sin_equivalente_nacional,AN_PWRNGS_CC: iar:AN_NGS002->NGS002
+conexion_sin_equivalente_nacional,AN_PWRNGS_CS: iar:AN_NGS002->NGS002
+conexion_sin_equivalente_nacional,AN_PWRSOLRTP: oar:AN_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,AN_UPSALK: iar:AN_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,AN_UPSBDL: oar:BDL001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,AN_UPSBJS: iar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,AN_UPSPEM: iar:AN_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,AN_UPSSAF: oar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,AN_UPSSMR: iar:AN_NGS002->NGS002
+conexion_sin_equivalente_nacional,AN_UPSSMRCCS: iar:AN_NGS002->NGS002
+conexion_sin_equivalente_nacional,CA_DEMCONSDSL: iar:CA_DSL002->DSL
+conexion_sin_equivalente_nacional,CA_DEMCONSGSL: iar:CA_GSL002->GSL
+conexion_sin_equivalente_nacional,CA_DEMINDDSLBOI_HIG: iar:CA_DSL002->DSL
+conexion_sin_equivalente_nacional,CA_DEMINDDSLBOI_LOW: iar:CA_DSL002->DSL
+conexion_sin_equivalente_nacional,CA_DEMINDDSLBOI_MID: iar:CA_DSL002->DSL
+conexion_sin_equivalente_nacional,CA_DEMINDDSLFUR_HIG: iar:CA_DSL002->DSL
+conexion_sin_equivalente_nacional,CA_DEMINDDSLFUR_LOW: iar:CA_DSL002->DSL
+conexion_sin_equivalente_nacional,CA_DEMINDDSLFUR_MID: iar:CA_DSL002->DSL
+conexion_sin_equivalente_nacional,CA_DEMMINIDSL: iar:CA_DSL002->DSL
+conexion_sin_equivalente_nacional,CA_DEMMINIGSL: iar:CA_GSL002->GSL; oar:CA_MINIGSL->GSL022
+conexion_sin_equivalente_nacional,CA_DEMNGSAUT: iar:CA_NGS002->NGS002
+conexion_sin_equivalente_nacional,CA_IMPDSL: oar:DSL001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,CA_IMPGSL: oar:GSL001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,CA_IMPJET: oar:JET001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,CA_IMPLPG: oar:LPG001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,CA_PWRLPG: iar:CA_LPG002->LPG002
+conexion_sin_equivalente_nacional,CA_PWRNGSCCS: iar:CA_NGS002->NGS002
+conexion_sin_equivalente_nacional,CA_PWRNGS_CC: iar:CA_NGS002->NGS002
+conexion_sin_equivalente_nacional,CA_PWRNGS_CS: iar:CA_NGS002->NGS002
+conexion_sin_equivalente_nacional,CA_PWRSOLRTP: oar:CA_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,CA_UPSALK: iar:CA_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,CA_UPSBDL: oar:BDL001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,CA_UPSBJS: iar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,CA_UPSPEM: iar:CA_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,CA_UPSSAF: oar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,CA_UPSSMR: iar:CA_NGS002->NGS002
+conexion_sin_equivalente_nacional,CA_UPSSMRCCS: iar:CA_NGS002->NGS002
+conexion_sin_equivalente_nacional,IN_DEMTRADSLFWD: iar:IN_DSL002->DSL
+conexion_sin_equivalente_nacional,IN_DEMTRADSLLDV: iar:IN_DSL002->DSL
+conexion_sin_equivalente_nacional,IN_DEMTRADSLMIC: iar:IN_DSL002->DSL
+conexion_sin_equivalente_nacional,IN_DEMTRADSLTAX: iar:IN_DSL002->DSL
+conexion_sin_equivalente_nacional,IN_DEMTRADSLTCK_C2P: iar:IN_DSL002->DSL
+conexion_sin_equivalente_nacional,IN_DEMTRADSLTCK_CSG: iar:IN_DSL002->DSL
+conexion_sin_equivalente_nacional,IN_DEMTRAGSLFWD: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAGSLLDV: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAGSLMIC: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAGSLMOT: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAGSLTAX: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAGSLTCK_C2P: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAHEVFWD: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAHEVLDV: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAPHEVFWD: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAPHEVLDV: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_DEMTRAPHEVTAX: iar:IN_GSL002->GSL
+conexion_sin_equivalente_nacional,IN_PWRSOLRTP_ZNI: oar:IN_ELC003->ELC002
+conexion_sin_equivalente_nacional,IN_PWRSTD: oar:IN_ELC003->ELC002
+conexion_sin_equivalente_nacional,IN_UPSBJS: iar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,NE_DEMCONSDSL: iar:NE_DSL002->DSL
+conexion_sin_equivalente_nacional,NE_DEMCONSGSL: iar:NE_GSL002->GSL
+conexion_sin_equivalente_nacional,NE_DEMINDDSLBOI_HIG: iar:NE_DSL002->DSL
+conexion_sin_equivalente_nacional,NE_DEMINDDSLBOI_LOW: iar:NE_DSL002->DSL
+conexion_sin_equivalente_nacional,NE_DEMINDDSLBOI_MID: iar:NE_DSL002->DSL
+conexion_sin_equivalente_nacional,NE_DEMINDDSLFUR_HIG: iar:NE_DSL002->DSL
+conexion_sin_equivalente_nacional,NE_DEMINDDSLFUR_LOW: iar:NE_DSL002->DSL
+conexion_sin_equivalente_nacional,NE_DEMINDDSLFUR_MID: iar:NE_DSL002->DSL
+conexion_sin_equivalente_nacional,NE_DEMMINIDSL: iar:NE_DSL002->DSL
+conexion_sin_equivalente_nacional,NE_DEMMINIGSL: iar:NE_GSL002->GSL; oar:NE_MINIGSL->GSL022
+conexion_sin_equivalente_nacional,NE_DEMNGSAUT: iar:NE_NGS002->NGS002
+conexion_sin_equivalente_nacional,NE_PWRNGSCCS: iar:NE_NGS002->NGS002
+conexion_sin_equivalente_nacional,NE_PWRNGS_CC: iar:NE_NGS002->NGS002
+conexion_sin_equivalente_nacional,NE_PWRNGS_CS: iar:NE_NGS002->NGS002
+conexion_sin_equivalente_nacional,NE_PWRSOLRTP: oar:NE_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,NE_UPSALK: iar:NE_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,NE_UPSBDL: oar:BDL001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,NE_UPSBJS: iar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,NE_UPSPEM: iar:NE_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,NE_UPSSAF: oar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,NE_UPSSMR: iar:NE_NGS002->NGS002
+conexion_sin_equivalente_nacional,NE_UPSSMRCCS: iar:NE_NGS002->NGS002
+conexion_sin_equivalente_nacional,OR_DEMCONSDSL: iar:OR_DSL002->DSL
+conexion_sin_equivalente_nacional,OR_DEMCONSGSL: iar:OR_GSL002->GSL
+conexion_sin_equivalente_nacional,OR_DEMINDDSLBOI_HIG: iar:OR_DSL002->DSL
+conexion_sin_equivalente_nacional,OR_DEMINDDSLBOI_LOW: iar:OR_DSL002->DSL
+conexion_sin_equivalente_nacional,OR_DEMINDDSLBOI_MID: iar:OR_DSL002->DSL
+conexion_sin_equivalente_nacional,OR_DEMINDDSLFUR_HIG: iar:OR_DSL002->DSL
+conexion_sin_equivalente_nacional,OR_DEMINDDSLFUR_LOW: iar:OR_DSL002->DSL
+conexion_sin_equivalente_nacional,OR_DEMINDDSLFUR_MID: iar:OR_DSL002->DSL
+conexion_sin_equivalente_nacional,OR_DEMMINIDSL: iar:OR_DSL002->DSL
+conexion_sin_equivalente_nacional,OR_DEMMINIGSL: iar:OR_GSL002->GSL; oar:OR_MINIGSL->GSL022
+conexion_sin_equivalente_nacional,OR_DEMNGSAUT: iar:OR_NGS002->NGS002
+conexion_sin_equivalente_nacional,OR_DEMTRAELCMET: iar:OR_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,OR_PWRNGSCCS: iar:OR_NGS002->NGS002
+conexion_sin_equivalente_nacional,OR_PWRNGS_CC: iar:OR_NGS002->NGS002
+conexion_sin_equivalente_nacional,OR_PWRNGS_CS: iar:OR_NGS002->NGS002
+conexion_sin_equivalente_nacional,OR_PWRSOLRTP: oar:OR_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,OR_UPSALK: iar:OR_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,OR_UPSBDL: oar:BDL001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,OR_UPSBET: oar:BET001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,OR_UPSBJS: iar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,OR_UPSPEM: iar:OR_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,OR_UPSSAF: oar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,OR_UPSSMR: iar:OR_NGS002->NGS002
+conexion_sin_equivalente_nacional,OR_UPSSMRCCS: iar:OR_NGS002->NGS002
+conexion_sin_equivalente_nacional,SE_DEMTRADSLBOT: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRADSLFWD: iar:SE_DSL002->DSL
+conexion_sin_equivalente_nacional,SE_DEMTRADSLLDV: iar:SE_DSL002->DSL
+conexion_sin_equivalente_nacional,SE_DEMTRADSLMIC: iar:SE_DSL002->DSL
+conexion_sin_equivalente_nacional,SE_DEMTRADSLTAX: iar:SE_DSL002->DSL
+conexion_sin_equivalente_nacional,SE_DEMTRADSLTCK_C2P: iar:SE_DSL002->DSL
+conexion_sin_equivalente_nacional,SE_DEMTRADSLTCK_CSG: iar:SE_DSL002->DSL
+conexion_sin_equivalente_nacional,SE_DEMTRAGSLBOT: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAGSLFWD: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAGSLLDV: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAGSLMIC: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAGSLMOT: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAGSLTAX: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAGSLTCK_C2P: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAHEVFWD: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAHEVLDV: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAPHEVFWD: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAPHEVLDV: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_DEMTRAPHEVTAX: iar:SE_GSL002->GSL
+conexion_sin_equivalente_nacional,SE_PWRAFR: oar:SE_ELC003->ELC002
+conexion_sin_equivalente_nacional,SE_PWRBGS: oar:SE_ELC003->ELC002
+conexion_sin_equivalente_nacional,SE_PWRHYDROR_NDC: oar:SE_ELC003->ELC002
+conexion_sin_equivalente_nacional,SE_PWRSOLUGE: oar:SE_ELC003->ELC002
+conexion_sin_equivalente_nacional,SE_PWRSTD: oar:SE_ELC003->ELC002
+conexion_sin_equivalente_nacional,SE_UPSBJS: iar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,SO_DEMCONSDSL: iar:SO_DSL002->DSL
+conexion_sin_equivalente_nacional,SO_DEMCONSGSL: iar:SO_GSL002->GSL
+conexion_sin_equivalente_nacional,SO_DEMINDDSLBOI_HIG: iar:SO_DSL002->DSL
+conexion_sin_equivalente_nacional,SO_DEMINDDSLBOI_LOW: iar:SO_DSL002->DSL
+conexion_sin_equivalente_nacional,SO_DEMINDDSLBOI_MID: iar:SO_DSL002->DSL
+conexion_sin_equivalente_nacional,SO_DEMINDDSLFUR_HIG: iar:SO_DSL002->DSL
+conexion_sin_equivalente_nacional,SO_DEMINDDSLFUR_LOW: iar:SO_DSL002->DSL
+conexion_sin_equivalente_nacional,SO_DEMINDDSLFUR_MID: iar:SO_DSL002->DSL
+conexion_sin_equivalente_nacional,SO_DEMMINIDSL: iar:SO_DSL002->DSL
+conexion_sin_equivalente_nacional,SO_DEMMINIGSL: iar:SO_GSL002->GSL; oar:SO_MINIGSL->GSL022
+conexion_sin_equivalente_nacional,SO_DEMNGSAUT: iar:SO_NGS002->NGS002
+conexion_sin_equivalente_nacional,SO_DEMTRAELCMET: iar:SO_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,SO_EXPECU: iar:SO_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,SO_IMPDSL: oar:DSL001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,SO_IMPGSL: oar:GSL001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,SO_IMPJET: oar:JET001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,SO_IMPLPG: oar:LPG001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,SO_PWRNGSCCS: iar:SO_NGS002->NGS002
+conexion_sin_equivalente_nacional,SO_PWRNGS_CC: iar:SO_NGS002->NGS002
+conexion_sin_equivalente_nacional,SO_PWRNGS_CS: iar:SO_NGS002->NGS002
+conexion_sin_equivalente_nacional,SO_PWRSOLRTP: oar:SO_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,SO_UPSALK: iar:SO_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,SO_UPSBET: oar:BET001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,SO_UPSBJS: iar:SAF001->(sin fuel nacional)
+conexion_sin_equivalente_nacional,SO_UPSPEM: iar:SO_ELC002->SOL_RTP
+conexion_sin_equivalente_nacional,SO_UPSSMR: iar:SO_NGS002->NGS002
+conexion_sin_equivalente_nacional,SO_UPSSMRCCS: iar:SO_NGS002->NGS002
+fuel_candidatos_ya_asignados,CSP: candidatos ELC001 (lo tomó ELC). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,DAM: candidatos ELC001 (lo tomó ELC). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,ELCZNI: candidatos ELC003 (lo tomó ELC002). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,FOL: candidatos ELC001 (lo tomó ELC); TRAMRT (lo tomó TRAMRT). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,GEO: candidatos ELC001 (lo tomó ELC). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,LPG: candidatos ELC001 (lo tomó ELC); LPG002 (lo tomó LPG002). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,MINIGSL: candidatos GSL002 (lo tomó GSL); MINIGSL (lo tomó GSL022). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,OFW: candidatos ELC001 (lo tomó ELC). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,OFW_FLO: candidatos ELC001 (lo tomó ELC). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,ONW: candidatos ELC001 (lo tomó ELC). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,ROR: candidatos ELC001 (lo tomó ELC); ELC003 (lo tomó ELC002). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,SAF: candidatos HDG001 (lo tomó HDG); JET002 (lo tomó JET); JETSAF (lo tomó JETSAF); OPL (lo tomó OPL). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,SOL: candidatos ELC001 (lo tomó ELC); ELC003 (lo tomó ELC002). Revisar si es commodity global o split N:1
+fuel_candidatos_ya_asignados,URN: candidatos ELC001 (lo tomó ELC). Revisar si es commodity global o split N:1
+fuel_sin_correspondencia,"OIL002: sin evidencia de conexión regional (posible split 1->N tipo OIL, o commodity solo-nacional); revisar a mano"
+fuel_sin_correspondencia,"OIL: sin evidencia de conexión regional (posible split 1->N tipo OIL, o commodity solo-nacional); revisar a mano"
+fuel_sin_correspondencia,"RESDHT_ZNI: sin evidencia de conexión regional (posible split 1->N tipo OIL, o commodity solo-nacional); revisar a mano"
+fuel_sin_correspondencia,"RESELC_ZNI: sin evidencia de conexión regional (posible split 1->N tipo OIL, o commodity solo-nacional); revisar a mano"
+fuel_sin_correspondencia,"WND: sin evidencia de conexión regional (posible split 1->N tipo OIL, o commodity solo-nacional); revisar a mano"
+renombramiento_baja_confianza,DSL -> DSL002 (Jaccard 0.20 < 0.3; otros candidatos: AGFHEA;BDL002;COQDSL;DSL003;ELC001;ELC003;TRAMRT)
+renombramiento_baja_confianza,GSL -> GSL002 (Jaccard 0.13 < 0.3; otros candidatos: AGFHEA;BET002;COQGSL;GSL003)
+renombramiento_baja_confianza,NGS -> NGS001 (Jaccard 0.12 < 0.3; otros candidatos: ELC001;HDG001;LNG;NGS002;NGSAUT)
+renombramiento_baja_confianza,SOL_RTP -> ELC002 (Jaccard 0.12 < 0.3; otros candidatos: ELC003)

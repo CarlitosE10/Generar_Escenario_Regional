@@ -1,0 +1,356 @@
+Log de regionalización — 2026-07-27 10:31:51
+======================================================================
+[ADVERTENCIA] AccumulatedAnnualDemand (TRAMAS): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] AccumulatedAnnualDemand (TRARVT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] CapitalCost (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] FixedCost (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (TRAMAS): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] InputActivityRatio (TRARVT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (TRAMAS): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] OutputActivityRatio (TRARVT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] ResidualCapacity (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] SpecifiedAnnualDemand (TRAMAS): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] SpecifiedAnnualDemand (TRARVT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] SpecifiedDemandProfile (TRAMAS): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] SpecifiedDemandProfile (TRARVT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMaxCapacityInvestment (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] TotalTechnologyAnnualActivityUpperLimit (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRADSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRADSLBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRADSLBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRADSLTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAELCBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAELCBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAELCBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAGSLBOT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAHDGBUS_IMU): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAHDGBUS_URB): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAHDGFWD): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAHDGLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAHDGMIC): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAHDGSTT): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAHDGTAX): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAHDGTCK_CSG): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRANGSBUS_ART): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRANGSBUS_BIA): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRANGSTCK_C2P): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[ADVERTENCIA] VariableCost (DEMTRAPHEVLDV): Suma de participaciones = 0.000000 (distinta de 1.0) en Año=-1
+[CREADO     ] ResidualCapacity (DEMTRADSLBOT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRADSLBUS_ART): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRADSLBUS_BIA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTRADSLBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTRADSLBUS_URB): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] ResidualCapacity (DEMTRADSLSHP): Participación en regiones sin el código, descartada: NE,OR,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTRADSLSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTRADSLTCK_C2P): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAELCBOT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAELCBUS_ART): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAELCBUS_BIA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTRAELCBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTRAELCBUS_URB): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] ResidualCapacity (DEMTRAELCMET): Participación en regiones sin el código, descartada: CA,IN,NE,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTRAELCSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTRAFOLSHP): Participación en regiones sin el código, descartada: NE,OR,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTRAGSLBOT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTRAGSLBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTRAGSLSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTRAHDGBUS_IMU): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAHDGBUS_URB): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAHDGFWD): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAHDGLDV): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAHDGMIC): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAHDGSTT): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAHDGTAX): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRAHDGTCK_CSG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRANGSBUS_ART): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] ResidualCapacity (DEMTRANGSBUS_BIA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTRANGSBUS_URB): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSFWD): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSLDV): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSMIC): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSTAX): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTRANGSTCK_C2P): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] ResidualCapacity (DEMTRANGSTCK_CSG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] ResidualCapacity (DEMTRAPHEVLDV): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[OK         ] ResidualCapacity: 63 combos regionalizados (366 filas SAND), 0 omitidos, 23 creados por decisión
+[ADVERTENCIA] AccumulatedAnnualDemand (TRABUS): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] AccumulatedAnnualDemand (TRALDV): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] AccumulatedAnnualDemand (TRAMAS): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] AccumulatedAnnualDemand (TRAMET): Participación en regiones sin el código, descartada: CA,IN,NE,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] AccumulatedAnnualDemand (TRAMRT): Participación en regiones sin el código, descartada: NE,OR,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] AccumulatedAnnualDemand (TRARVT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[ADVERTENCIA] AccumulatedAnnualDemand (TRASTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] AccumulatedAnnualDemand: 13 combos regionalizados (77 filas SAND), 0 omitidos, 3 creados por decisión
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRADSLBOT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRADSLBUS_ART): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRADSLBUS_BIA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRADSLBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRADSLBUS_URB): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRADSLSHP): Participación en regiones sin el código, descartada: NE,OR,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRADSLSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRADSLTCK_C2P): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAELCBOT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAELCBUS_ART): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAELCBUS_BIA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAELCBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAELCBUS_URB): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAELCMET): Participación en regiones sin el código, descartada: CA,IN,NE,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAELCSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAFOLSHP): Participación en regiones sin el código, descartada: NE,OR,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAGSLBOT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAGSLBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRAGSLSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAHDGBUS_IMU): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAHDGBUS_URB): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAHDGFWD): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAHDGLDV): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAHDGMIC): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAHDGSTT): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAHDGTAX): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAHDGTCK_CSG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRANGSBUS_ART): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRANGSBUS_BIA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRANGSBUS_URB): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSFWD): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSLDV): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSMIC): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSTAX): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRANGSTCK_C2P): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalAnnualMinCapacityInvestment (DEMTRANGSTCK_CSG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalAnnualMinCapacityInvestment (DEMTRAPHEVLDV): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[OK         ] TotalAnnualMinCapacityInvestment: 63 combos regionalizados (366 filas SAND), 0 omitidos, 23 creados por decisión
+[OK         ] TotalAnnualMaxCapacityInvestment: 63 combos regionalizados (366 filas SAND), 0 omitidos, 0 creados por decisión
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLBOT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLBUS_ART): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLBUS_BIA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLBUS_URB): Emitido solo en regiones existentes (AN,CA,NE,OR,SO): participaciones tal cual, sin renormalizar
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLSHP): Participación en regiones sin el código, descartada: NE,OR,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRADSLTCK_C2P): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCBOT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCBUS_ART): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCBUS_BIA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCBUS_URB): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCMET): Participación en regiones sin el código, descartada: CA,IN,NE,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAELCSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAFOLSHP): Participación en regiones sin el código, descartada: NE,OR,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAGSLBOT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAGSLBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRAGSLSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGBUS_IMU): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGBUS_URB): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGFWD): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGLDV): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGMIC): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGSTT): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGTAX): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAHDGTCK_CSG): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSBUS_ART): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSBUS_BIA): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSBUS_IMU): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSBUS_URB): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSFWD): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSLDV): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSMIC): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSSTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSTAX): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSTCK_C2P): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] TotalTechnologyAnnualActivityLowerLimit (DEMTRANGSTCK_CSG): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] TotalTechnologyAnnualActivityLowerLimit (DEMTRAPHEVLDV): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[OK         ] TotalTechnologyAnnualActivityLowerLimit: 63 combos regionalizados (366 filas SAND), 0 omitidos, 23 creados por decisión
+[OK         ] TotalTechnologyAnnualActivityUpperLimit: 63 combos regionalizados (366 filas SAND), 0 omitidos, 0 creados por decisión
+[ADVERTENCIA] SpecifiedAnnualDemand (TRABUS): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] SpecifiedAnnualDemand (TRALDV): Participación uniforme 1/7 en AN,CA,SE,IN,NE,OR,SO
+[CREADO     ] SpecifiedAnnualDemand (TRAMAS): Participación uniforme 1/5 en AN,CA,NE,OR,SO
+[ADVERTENCIA] SpecifiedAnnualDemand (TRAMET): Participación en regiones sin el código, descartada: CA,IN,NE,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[ADVERTENCIA] SpecifiedAnnualDemand (TRAMRT): Participación en regiones sin el código, descartada: NE,OR,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[CREADO     ] SpecifiedAnnualDemand (TRARVT): Participación uniforme 1/6 en AN,CA,SE,NE,OR,SO
+[ADVERTENCIA] SpecifiedAnnualDemand (TRASTT): Participación en regiones sin el código, descartada: IN,SE (fracción perdida; decidir 'crear' en la pre-validación para incluirlas)
+[OK         ] SpecifiedAnnualDemand: 13 combos regionalizados (77 filas SAND), 0 omitidos, 3 creados por decisión
+[OK         ] SpecifiedDemandProfile: 1 combos regionalizados (3 filas SAND), 0 omitidos, 0 creados por decisión
+[OK         ] CapitalCost: 63 combos regionalizados (366 filas SAND), 0 omitidos, 0 creados por decisión
+[OK         ] FixedCost: 63 combos regionalizados (366 filas SAND), 0 omitidos, 0 creados por decisión
+[OK         ] VariableCost: 63 combos regionalizados (366 filas SAND), 0 omitidos, 0 creados por decisión
+[OK         ] OutputActivityRatio: 63 combos regionalizados (366 filas SAND), 0 omitidos, 0 creados por decisión
+[ADVERTENCIA] InputActivityRatio: Sin filas nacionales que pasen los filtros
